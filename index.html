@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Portfolio">
+<meta name="theme-color" content="#1B2845">
+<title>My Portfolio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root{
+    --navy:#1B2845; --red:#C00000; --gain:#137A43; --loss:#C0392B;
+    --ink:#14181F; --muted:#5B6472; --line:#E6E8EC; --bg:#FFFFFF;
+    --panel:#F7F8FA; --display:'Space Grotesk',sans-serif; --sans:'IBM Plex Sans',sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:var(--sans);color:var(--ink);background:var(--bg);line-height:1.45;
+       -webkit-font-smoothing:antialiased;font-variant-numeric:tabular-nums}
+  .wrap{max-width:1160px;margin:0 auto;padding:20px 18px 64px}
+  a{color:inherit}
+
+  /* header */
+  header{display:flex;align-items:baseline;justify-content:space-between;gap:12px;
+         flex-wrap:wrap;border-bottom:2px solid var(--navy);padding-bottom:14px}
+  .brand{font-family:var(--display);font-weight:700;font-size:20px;color:var(--navy);
+         letter-spacing:-.01em}
+  .brand b{color:var(--red)}
+  .updated{font-size:12.5px;color:var(--muted)}
+  .refresh{font-family:var(--sans);font-size:12.5px;font-weight:600;color:var(--navy);
+           background:none;border:1px solid var(--line);border-radius:7px;padding:6px 11px;
+           cursor:pointer}
+  .refresh:hover{border-color:var(--navy)}
+
+  /* hero */
+  .hero{margin-top:22px;display:grid;grid-template-columns:1.4fr 1fr;gap:26px;align-items:end}
+  .pnl-big{font-family:var(--display);font-weight:700;font-size:clamp(38px,7vw,62px);
+           line-height:1;letter-spacing:-.02em}
+  .pnl-sub{font-size:15px;font-weight:600;margin-top:8px}
+  .hero-label{font-size:12.5px;color:var(--muted);text-transform:none;margin-bottom:4px}
+  .stats{display:grid;grid-template-columns:1fr 1fr;gap:14px 22px}
+  .stat .v{font-family:var(--display);font-weight:600;font-size:22px;color:var(--navy)}
+  .stat .k{font-size:12px;color:var(--muted)}
+  .basis{grid-column:1/-1;font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);
+         padding-top:10px}
+  .pos{color:var(--gain)} .neg{color:var(--loss)}
+
+  /* section head */
+  h2{font-family:var(--display);font-weight:600;font-size:15px;color:var(--navy);
+     margin:38px 0 12px;letter-spacing:.005em}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+
+  /* movers */
+  .mover{display:flex;justify-content:space-between;gap:10px;padding:7px 0;
+         border-bottom:1px solid var(--line);font-size:14px}
+  .mover:last-child{border-bottom:none}
+  .mover .nm{font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+  /* composition chart */
+  .chartbox{background:var(--panel);border:1px solid var(--line);border-radius:10px;
+            padding:16px;height:280px;position:relative}
+
+  /* controls */
+  .controls{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:10px}
+  #search{flex:1;min-width:180px;font-family:var(--sans);font-size:14px;padding:9px 12px;
+          border:1px solid var(--line);border-radius:8px}
+  #search:focus{outline:none;border-color:var(--navy)}
+  .count{font-size:12.5px;color:var(--muted)}
+
+  /* table */
+  .tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:10px}
+  table{border-collapse:collapse;width:100%;min-width:720px;font-size:13.5px}
+  thead th{background:var(--navy);color:#fff;font-weight:600;text-align:right;
+           padding:11px 12px;white-space:nowrap;cursor:pointer;user-select:none;
+           position:sticky;top:0;font-size:12.5px}
+  thead th:first-child{text-align:left;position:sticky;left:0;z-index:3}
+  thead th.sorted::after{content:" \25B4";font-size:10px}
+  thead th.desc::after{content:" \25BE"}
+  tbody td{padding:10px 12px;text-align:right;border-bottom:1px solid var(--line);
+           white-space:nowrap}
+  tbody td:first-child{text-align:left;position:sticky;left:0;background:var(--bg);
+                       font-weight:500;max-width:200px;overflow:hidden;text-overflow:ellipsis}
+  tbody tr:hover td{background:var(--panel)}
+  tbody tr:hover td:first-child{background:var(--panel)}
+  .flag{font-size:10.5px;color:var(--red);font-weight:600;margin-left:6px}
+  .dash{color:var(--muted)}
+
+  /* news */
+  .news-stock{border-bottom:1px solid var(--line);padding:14px 0}
+  .news-stock:last-child{border-bottom:none}
+  .news-stock h3{font-family:var(--sans);font-size:14px;font-weight:600;color:var(--navy);
+                 margin-bottom:6px}
+  .headline{display:block;font-size:13.5px;color:var(--ink);padding:4px 0;
+            text-decoration:none}
+  .headline:hover{color:var(--red);text-decoration:underline}
+  .headline .src{color:var(--muted);font-size:11.5px}
+  .empty{color:var(--muted);font-size:13.5px;padding:8px 0}
+
+  footer{margin-top:40px;font-size:12px;color:var(--muted);border-top:1px solid var(--line);
+         padding-top:14px}
+
+  @media(max-width:720px){
+    .hero{grid-template-columns:1fr;gap:20px}
+    .grid2{grid-template-columns:1fr}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <div class="brand">My <b>Portfolio</b></div>
+      <div class="updated" id="updated">loading…</div>
+    </div>
+    <button class="refresh" id="refresh">Refresh</button>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div>
+      <div class="hero-label">Overall profit / loss</div>
+      <div class="pnl-big" id="heroPnl">—</div>
+      <div class="pnl-sub" id="heroPct"></div>
+    </div>
+    <div class="stats">
+      <div class="stat"><div class="v" id="sCurrent">—</div><div class="k">Current value</div></div>
+      <div class="stat"><div class="v" id="sInvested">—</div><div class="k">Invested (priced)</div></div>
+      <div class="stat"><div class="v" id="sDay">—</div><div class="k">Today's change</div></div>
+      <div class="stat"><div class="v" id="sCount">—</div><div class="k">Holdings priced</div></div>
+      <div class="basis" id="basis"></div>
+    </div>
+  </section>
+
+  <!-- MOVERS -->
+  <section id="moversWrap" style="display:none">
+    <div class="grid2">
+      <div><h2>Today's gainers</h2><div id="gainers"></div></div>
+      <div><h2>Today's losers</h2><div id="losers"></div></div>
+    </div>
+  </section>
+
+  <!-- COMPOSITION -->
+  <h2>Where your money sits</h2>
+  <div class="chartbox"><canvas id="compChart"></canvas></div>
+
+  <!-- HOLDINGS -->
+  <h2>All holdings</h2>
+  <div class="controls">
+    <input id="search" placeholder="Search a stock…" autocomplete="off">
+    <span class="count" id="tblCount"></span>
+  </div>
+  <div class="tablewrap">
+    <table>
+      <thead><tr>
+        <th data-k="name">Stock</th>
+        <th data-k="qty">Qty</th>
+        <th data-k="avg">Avg</th>
+        <th data-k="ltp">LTP</th>
+        <th data-k="invested">Invested</th>
+        <th data-k="current">Current</th>
+        <th data-k="pnl">P&L ₹</th>
+        <th data-k="pnl_pct" class="sorted desc">P&L %</th>
+        <th data-k="day_pct">Day %</th>
+      </tr></thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+
+  <!-- NEWS -->
+  <h2>Latest news on your stocks</h2>
+  <div id="news"></div>
+
+  <footer id="footer"></footer>
+</div>
+
+<script>
+const INR = n => n==null ? "—" :
+  "₹" + Math.round(n).toLocaleString("en-IN");
+const INR1 = n => n==null ? "—" :
+  "₹" + n.toLocaleString("en-IN",{maximumFractionDigits:2});
+const pct = n => n==null ? "" : (n>=0?"+":"") + n.toFixed(2) + "%";
+const cls = n => n==null ? "" : (n>=0?"pos":"neg");
+
+let DATA=null, sortKey="pnl_pct", sortDir=-1;
+
+async function load(){
+  const r = await fetch("data.json?t=" + Date.now(), {cache:"no-store"});
+  DATA = await r.json();
+  render();
+}
+
+function render(){
+  const s = DATA.summary, H = DATA.holdings;
+  document.getElementById("updated").textContent = "Updated " + s.updated;
+
+  // hero
+  const pnlEl = document.getElementById("heroPnl");
+  pnlEl.textContent = (s.pnl>=0?"+":"−") + "₹" + Math.abs(Math.round(s.pnl)).toLocaleString("en-IN");
+  pnlEl.className = "pnl-big " + cls(s.pnl);
+  const pctEl = document.getElementById("heroPct");
+  pctEl.textContent = pct(s.pnl_pct);
+  pctEl.className = "pnl-sub " + cls(s.pnl_pct);
+  document.getElementById("sCurrent").textContent = INR(s.current);
+  document.getElementById("sInvested").textContent = INR(s.invested);
+  const dEl = document.getElementById("sDay");
+  dEl.textContent = s.day_pnl ? (s.day_pnl>=0?"+":"−")+INR(Math.abs(s.day_pnl)).slice(1) : "—";
+  dEl.className = "v " + cls(s.day_pnl);
+  document.getElementById("sCount").textContent = (s.count - s.pending) + " / " + s.count;
+  document.getElementById("basis").innerHTML =
+    "Full cost basis across all " + s.count + " holdings: <b>" + INR(s.total_cost) + "</b>" +
+    (s.pending ? " · " + s.pending + " still awaiting first price" : "");
+
+  buildMovers(H);
+  buildChart(H);
+  buildTable();
+  buildNews(H);
+  document.getElementById("footer").textContent =
+    "Prices and news are delayed and refresh on a schedule while the market is open. For information only, not investment advice.";
+}
+
+function buildMovers(H){
+  const withDay = H.filter(h=>h.day_pct!=null);
+  if(!withDay.length) return;
+  document.getElementById("moversWrap").style.display="block";
+  const up=[...withDay].sort((a,b)=>b.day_pct-a.day_pct).slice(0,3);
+  const dn=[...withDay].sort((a,b)=>a.day_pct-b.day_pct).slice(0,3);
+  const row=h=>`<div class="mover"><span class="nm">${h.name}</span>
+    <span class="${cls(h.day_pct)}">${pct(h.day_pct)}</span></div>`;
+  document.getElementById("gainers").innerHTML=up.map(row).join("");
+  document.getElementById("losers").innerHTML=dn.map(row).join("");
+}
+
+let chart=null;
+function buildChart(H){
+  const priced=H.filter(h=>h.current!=null).sort((a,b)=>b.current-a.current);
+  const top=priced.slice(0,9);
+  const rest=priced.slice(9).reduce((s,h)=>s+h.current,0);
+  const labels=top.map(h=>h.name); const vals=top.map(h=>h.current);
+  if(rest>0){labels.push("Everything else");vals.push(rest);}
+  const palette=["#1B2845","#2C4370","#3E5E9E","#C00000","#137A43","#6B7B9C",
+                 "#9A2B2B","#4A7A5C","#8894AE","#B0B7C4"];
+  if(chart) chart.destroy();
+  chart=new Chart(document.getElementById("compChart"),{
+    type:"doughnut",
+    data:{labels,datasets:[{data:vals,backgroundColor:palette,borderWidth:2,borderColor:"#fff"}]},
+    options:{responsive:true,maintainAspectRatio:false,cutout:"58%",
+      plugins:{legend:{position:"right",labels:{font:{family:"IBM Plex Sans",size:11.5},
+        boxWidth:12,padding:8}},
+      tooltip:{callbacks:{label:c=>" "+c.label+": ₹"+Math.round(c.parsed).toLocaleString("en-IN")}}}}
+  });
+}
+
+function buildTable(){
+  const q=(document.getElementById("search").value||"").toLowerCase();
+  let rows=DATA.holdings.filter(h=>h.name.toLowerCase().includes(q));
+  rows.sort((a,b)=>{
+    let x=a[sortKey], y=b[sortKey];
+    if(sortKey==="name"){return sortDir*(""+x).localeCompare(""+y);}
+    if(x==null)x=-Infinity; if(y==null)y=-Infinity;
+    return sortDir*(x-y);
+  });
+  const tb=document.getElementById("tbody");
+  tb.innerHTML=rows.map(h=>{
+    const flag = h.ltp==null ? '<span class="flag">check symbol</span>' : '';
+    const dash = '<span class="dash">—</span>';
+    return `<tr>
+      <td>${h.name}${flag}</td>
+      <td>${h.qty.toLocaleString("en-IN")}</td>
+      <td>${INR1(h.avg)}</td>
+      <td>${h.ltp==null?dash:INR1(h.ltp)}</td>
+      <td>${INR(h.invested)}</td>
+      <td>${h.current==null?dash:INR(h.current)}</td>
+      <td class="${cls(h.pnl)}">${h.pnl==null?dash:(h.pnl>=0?"+":"−")+INR(Math.abs(h.pnl)).slice(1)}</td>
+      <td class="${cls(h.pnl_pct)}">${h.pnl_pct==null?dash:pct(h.pnl_pct)}</td>
+      <td class="${cls(h.day_pct)}">${h.day_pct==null?dash:pct(h.day_pct)}</td>
+    </tr>`;
+  }).join("");
+  document.getElementById("tblCount").textContent = rows.length + " shown";
+}
+
+function buildNews(H){
+  const withNews=H.filter(h=>h.news && h.news.length);
+  const box=document.getElementById("news");
+  if(!withNews.length){
+    box.innerHTML='<div class="empty">Headlines will appear here after the first live update runs.</div>';
+    return;
+  }
+  box.innerHTML=withNews.map(h=>`
+    <div class="news-stock">
+      <h3>${h.name}</h3>
+      ${h.news.map(n=>`<a class="headline" href="${n.link}" target="_blank" rel="noopener">
+        ${n.title} <span class="src">${n.source?("· "+n.source):""}</span></a>`).join("")}
+    </div>`).join("");
+}
+
+// interactions
+document.querySelectorAll("thead th").forEach(th=>{
+  th.addEventListener("click",()=>{
+    const k=th.dataset.k;
+    if(sortKey===k){sortDir*=-1;} else {sortKey=k; sortDir=(k==="name")?1:-1;}
+    document.querySelectorAll("thead th").forEach(t=>t.classList.remove("sorted","desc"));
+    th.classList.add("sorted"); if(sortDir<0) th.classList.add("desc");
+    buildTable();
+  });
+});
+document.getElementById("search").addEventListener("input",buildTable);
+document.getElementById("refresh").addEventListener("click",load);
+
+load();
+</script>
+</body>
+</html>
