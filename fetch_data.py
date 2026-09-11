@@ -39,16 +39,15 @@ HOLDINGS = [
     ("MosChip Technologies",      "MOSCHIP.NS",     349,  230.14),
     ("Salzer Electronics",        "SALZERELEC.NS",  129,  967.03),
     ("Samrat Pharmachem",         "SAMRATPH.BO",    266,  369.95),   # trades on BSE
-    ("Veefin Solutions (lot 1)",  "VEEFIN.NS",      600,  306.07),
+    ("Veefin Solutions",          "VEEFIN.BO",      800,  307.10),   # merged: 600@306.07 + 200@310.18; trades on BSE
 
     # --- from your list ---
     ("Azad Engineering",          "AZAD.NS",        175,  1672.92),
     ("Unimech Aerospace",         "UNIMECH.NS",     200,  1295.44),
     ("Avalon Technologies",       "AVALON.NS",      153,  981.05),
-    ("Veefin Solutions (lot 2)",  "VEEFIN.NS",      200,  310.18),
     ("Apollo Micro Systems",      "APOLLO.NS",      500,  103.38),
     ("IDBI Bank",                 "IDBI.NS",        2100, 70.62),
-    ("Singer India",              "SINGER.NS",      900,  91.03),
+    ("Singer India",              "SINGER.BO",      900,  91.03),   # thin listing, trades on BSE
     ("Lokesh Machines",           "LOKESHMACH.NS",  100,  423.68),
     ("Sterlite Technologies",     "STLTECH.NS",     500,  71.29),
     ("Zaggle Prepaid Ocean",      "ZAGGLE.NS",      200,  365.11),
@@ -62,10 +61,10 @@ HOLDINGS = [
     ("Shree Renuka Sugars",       "RENUKA.NS",      1500, 54.15),
     ("KFin Technologies",         "KFINTECH.NS",    70,   655.89),
     ("Salasar Techno Engg",       "SALASAR.NS",     1014, 22.75),
-    ("Orient Green Power",        "OGPL.NS",        1000, 23.00),
+    ("Orient Green Power",        "GREENPOWER.NS",  1000, 23.00),
     ("Rail Vikas Nigam",          "RVNL.NS",        175,  505.11),
     ("Gateway Distriparks",       "GATEWAY.NS",     218,  113.90),
-    ("Lancer Container Lines",    "LANCERCON.NS",   830,  60.21),    # <-- verify symbol on first run
+    ("Lancer Container Lines",    "LANCER.NS",      830,  60.21),
     ("HUDCO",                     "HUDCO.NS",       269,  292.49),
     ("PNC Infratech",             "PNCINFRA.NS",    380,  386.90),
     ("Jio Financial (lot 2)",     "JIOFIN.NS",      645,  263.25),
@@ -83,7 +82,7 @@ HOLDINGS = [
     # --- from the second account screenshot ---
     ("IFCI",                      "IFCI.NS",        2640, 82.41),
     ("SITI Networks",             "SITINET.NS",     352,  0.86),
-    ("Frontline Corporation",     "FRONTCORP.NS",   20,   46.83),    # <-- thin stock, may need symbol fix
+    ("Frontline Corporation",     "FRONTCORP.BO",   20,   46.83),
 ]
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (portfolio-dashboard)"}
