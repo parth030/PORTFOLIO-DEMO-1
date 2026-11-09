@@ -1,14 +1,14 @@
 {
   "summary": {
     "invested": 5121741.68,
-    "current": 4548730.26,
-    "pnl": -573011.42,
-    "pnl_pct": -11.19,
-    "day_pnl": -151670.74,
+    "current": 4597523.0,
+    "pnl": -524218.68,
+    "pnl_pct": -10.24,
+    "day_pnl": 37308.74,
     "total_cost": 5121741.68,
     "pending": 0,
     "count": 46,
-    "updated": "06 Nov 2026, 10:58 PM IST"
+    "updated": "09 Nov 2026, 04:12 PM IST"
   },
   "holdings": [
     {
@@ -16,15 +16,15 @@
       "symbol": "CEINSYS.NS",
       "qty": 50,
       "avg": 1390.63,
-      "ltp": 661.45,
-      "prev_close": 681.8,
+      "ltp": 710.35,
+      "prev_close": 661.45,
       "invested": 69531.5,
       "news": [
         {
-          "title": "Ceinsys Tech (BSE:538734) - Stock Analysis - Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53TmVUNG5sX3JFYVNBZ1dGM3haZXh2Zm0xdGhyNHlNelp4QnI1MDhiQkVDek50TXJLN2prMzJQT0xPZVY3aHhwT1JpS3RlaDRZc1MyUF91TjFLdngwcU9vUkQwWDBNckFUVXBxbzA3QmZVWEd1cTFWUE5oYw?oc=5",
-          "source": "Simply Wall St",
-          "when": "Mon, 02 Nov 2026 08:00:00 GMT"
+          "title": "InvestingPro\u2019s Fair Value warned of 50% drop in Ceinsys Tech By Investing.com - Investing.com India",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS05UR1JtN3k5UFQ3cFkxTmJERy1LU2piUkJXVlJOQWxLSWNMbS0xZHRtRGpRdVRjRzBlT2E1VHJGTzR1Y0l4QjNEQmFyaS1iajhQTDZyMlJHVzN2NDRFYnhTMnh1S19HYzY4NWNIblM2WmMxaWdTZm9KMmFzY0RTTURjRDRJRGRSX05JLUljcGlZbVkwWjlCam9Ud2NPNWlNdW1PZlNTQ0ppdi1jbThaQVFsa1NsM3F3eEE?oc=5",
+          "source": "Investing.com India",
+          "when": "Wed, 22 Jul 2026 07:00:00 GMT"
         },
         {
           "title": "Ceinsys Tech Ltd. Shareholding Pattern \u2013 Promoters, FIIs & DIIs - Value Research",
@@ -33,25 +33,25 @@
           "when": "Mon, 31 Aug 2026 03:31:36 GMT"
         },
         {
-          "title": "InvestingPro\u2019s Fair Value warned of 50% drop in Ceinsys Tech By Investing.com - Investing.com India",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS05UR1JtN3k5UFQ3cFkxTmJERy1LU2piUkJXVlJOQWxLSWNMbS0xZHRtRGpRdVRjRzBlT2E1VHJGTzR1Y0l4QjNEQmFyaS1iajhQTDZyMlJHVzN2NDRFYnhTMnh1S19HYzY4NWNIblM2WmMxaWdTZm9KMmFzY0RTTURjRDRJRGRSX05JLUljcGlZbVkwWjlCam9Ud2NPNWlNdW1PZlNTQ0ppdi1jbThaQVFsa1NsM3F3eEE?oc=5",
-          "source": "Investing.com India",
-          "when": "Wed, 22 Jul 2026 07:00:00 GMT"
+          "title": "CEINSYS Stock Price and Chart \u2014 NSE:CEINSYS - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vSTBZN0JXXzMtZEJMV2x1RVVwaVRFX01jLTV1NTZsbGF3MXlTcVVJdmVSVHlzVDVESkF1QlF0X3NUc1h5TzZsbFFsZGU4VjRyZ1F5cG41Z3ZycVVX?oc=5",
+          "source": "TradingView",
+          "when": "Thu, 19 Feb 2026 07:26:11 GMT"
         }
       ],
-      "current": 33072.5,
-      "pnl": -36459.0,
-      "pnl_pct": -52.44,
-      "day_pnl": -1017.5,
-      "day_pct": -2.98
+      "current": 35517.5,
+      "pnl": -34014.0,
+      "pnl_pct": -48.92,
+      "day_pnl": 2445.0,
+      "day_pct": 7.39
     },
     {
       "name": "EPACK Durable",
       "symbol": "EPACK.NS",
       "qty": 300,
       "avg": 393.77,
-      "ltp": 155.07,
-      "prev_close": 159.41,
+      "ltp": 157.15,
+      "prev_close": 155.07,
       "invested": 118131.0,
       "news": [
         {
@@ -61,46 +61,46 @@
           "when": "Sun, 30 Aug 2026 12:35:56 GMT"
         },
         {
-          "title": "EPACK Durable (NSEI:EPACK) Stock Forecast & Analyst Predictions - Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbXVwY1R4Wmpwb0JJZDdNakotQWxIMzZzSHdPNTZIdk9BOFlHcWVYT3JtYThfdmItV3YwTGJFOXFoUG5jX0FDMzk0b1dhcDl4TUhZY21JWlZjenVmRU5iaGJnZ1k1SHVUSERvNmNOX2ZWMjlYeFRVMGQ3RUpPMlY3ZFA5aW0yMnhzR0swLWhPSzI?oc=5",
-          "source": "Simply Wall St",
-          "when": "Mon, 02 Nov 2026 08:00:00 GMT"
-        },
-        {
           "title": "Epack Durable Q1FY27 revenue hits record \u20b98,860 crore; PAT falls 48.5% - scanx.trade",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd0t6YmtQU3RXVDFpUFJXWk1DZnQwNmhLV3B3T2RsbDV1d1RSU255a2hMNjlSYlZPaUFPVGtJTGdncTVKeS15eGZTOFZEUW1XVDUxVldlRDdQT1dzZFA5ekZQS1ZpVHMzWjBmLTZOQ1I0UEc4R2Mxc2t0Z2JNaWpIakdjc3NuSERoakNMbHJ2ekRsNGhMbWQ3NTJ0SmxiWUpFQU5LLURVRWY0cGxSU1M2UGNvQ00wVnM?oc=5",
           "source": "scanx.trade",
           "when": "Fri, 07 Aug 2026 16:27:46 GMT"
+        },
+        {
+          "title": "Epack Durable allots 48,218 equity shares under ESOS - Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaG9wMXZGN182Q0F1c2Z6a2htZ1haVU9FcmFRanF1XzBxZEZLdkRHNlpBQTdudmVRNlNyZDNVSjE1YzFMSWRGaFQwRUhJYVpHNVBPSmZQZ2p3eGNZT2UwaEVqNXF0cEhLZDR1dlRJNUZjMm5FcTBrM0x6UV94MkF3bWV4ckpaQmVjbmlKUE1Cdkx6UmFHak12U0NNUloyLTg1MXJXTEhOM3h3TGVOcDVsLWdyR0JZcy12emJyWFVyd1RaYVhVUE5tNTVrYXFsb1XSAdQBQVVfeXFMTVJ2dzdyZUt2TFVSaXRZbTRpRWtBRnJxS0FIOFBwak9SRjZQUEZydlBvM1NkbTNyTWV0eDhiV2ZMWDhZS0d0aGhRTklTUnBqTVVUUXlvSG5qZHVEZ1FtRWlVSTZTOG9nbFZiVjZreDJZRHh5QjlaRHpZQ3prc284ekgyam1LTTBrc3RwWHNfSGRjR2oxZ2VVeHcwM2hScGJBLV92T2doNUZzRGN4Umd2eE93eHpXcUZNWFFVcVBpdUd2Y2JncG9vMmpqNUswcV9mbHRVR0k?oc=5",
+          "source": "Business Standard",
+          "when": "Wed, 09 Sep 2026 07:00:00 GMT"
         }
       ],
-      "current": 46521.0,
-      "pnl": -71610.0,
-      "pnl_pct": -60.62,
-      "day_pnl": -1302.0,
-      "day_pct": -2.72
+      "current": 47145.0,
+      "pnl": -70986.0,
+      "pnl_pct": -60.09,
+      "day_pnl": 624.0,
+      "day_pct": 1.34
     },
     {
       "name": "Jio Financial (lot 1)",
       "symbol": "JIOFIN.NS",
       "qty": 660,
       "avg": 295.33,
-      "ltp": 231.2,
-      "prev_close": 229.62,
+      "ltp": 230.0,
+      "prev_close": 231.2,
       "invested": 194917.8,
       "news": [],
-      "current": 152592.0,
-      "pnl": -42325.8,
-      "pnl_pct": -21.71,
-      "day_pnl": 1042.8,
-      "day_pct": 0.69
+      "current": 151800.0,
+      "pnl": -43117.8,
+      "pnl_pct": -22.12,
+      "day_pnl": -792.0,
+      "day_pct": -0.52
     },
     {
       "name": "MosChip Technologies",
       "symbol": "MOSCHIP.NS",
       "qty": 349,
       "avg": 230.14,
-      "ltp": 168.31,
-      "prev_close": 170.57,
+      "ltp": 167.83,
+      "prev_close": 168.31,
       "invested": 80318.86,
       "news": [
         {
@@ -110,44 +110,44 @@
           "when": "Sun, 30 Aug 2026 13:59:58 GMT"
         },
         {
+          "title": "Moschip Technologies promoter pledges 13.21% stake to Infina Finance - scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVZsSk9nSlM5bEVfYXFaRmZOVVo0TkxMWXdfRkQwaW5qZS0ybUk3X2U2bVNLN1FySEFkRm1fYWZjVE8xeEo1SHpxZlBBZHpYT2pGZ3M5RzZVS1d1RHdpR0cxdlRXOHp4OFpXMnBIVmJ3SnFQdFhoNllQX0xRdHRWaUx5RlJSb1hFVUdjbWNRY1RUM3NnclEwWUNTV0N5NWdiUU1VMGl1eEN3TXJqWGRqeUdQaG9FOVY3Rno2ZjJB?oc=5",
+          "source": "scanx.trade",
+          "when": "Thu, 22 Oct 2026 07:00:00 GMT"
+        },
+        {
           "title": "Moschip Technologies Shares Gain 2.93%: Support and Resistance Levels in Focus - Butterfly Setup - https://www.siam.in/",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcXdzOVI1N2Y3alZrWXlDbDdRZ0lZSjEzVWJ2RUk1ZmlZMERsWDd4S3F0Q19uQWcxaEhJWGloY1A0YUFXaDBxLU1pV3pHT0ZCRXBBSjRkRzUxR2hvUWJhd0RPZm0tUEd0cVBNZ1U1ZmdFbEhESUQ0UU5YWUJLd1hiUzB4TzdZWXNQTlJhbzJVUXBGQU45WkY5bGJIWXdlM3ZPX3FkNXAwdU15Y3UtNDNzTWd6SFFEZERNUnc?oc=5",
           "source": "https://www.siam.in/",
           "when": "Wed, 15 Jul 2026 07:00:00 GMT"
-        },
-        {
-          "title": "Why MosChip Technologies Share Price is Falling - Equitymaster",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSm9GYzVUS296dXUxZzE5anNNUVRuY1lJclc3VWE2QnF0RnRhQUhJeGkzbXNUUXRGU0RNdFdNdDJ5SFdscDBrUk90RjFnaS1DWk1qVzAtalhiOU1VVWZLblV3RGgySGRDTVE2enNnWVAxUXVYcFk5NDF1UnhuTjFGSjN4ZGtrQmVBUnoxVEMwVU05akN4Y3N0VFdwXzlpQkFCRUMzM3gtaTRNQ3oybzVmT3NFQVlXQmZqbVE?oc=5",
-          "source": "Equitymaster",
-          "when": "Mon, 27 Jul 2026 07:00:00 GMT"
         }
       ],
-      "current": 58740.19,
-      "pnl": -21578.67,
-      "pnl_pct": -26.87,
-      "day_pnl": -788.74,
-      "day_pct": -1.32
+      "current": 58572.67,
+      "pnl": -21746.19,
+      "pnl_pct": -27.07,
+      "day_pnl": -167.52,
+      "day_pct": -0.29
     },
     {
       "name": "Salzer Electronics",
       "symbol": "SALZERELEC.NS",
       "qty": 129,
       "avg": 967.03,
-      "ltp": 476.35,
-      "prev_close": 487.05,
+      "ltp": 552.35,
+      "prev_close": 476.35,
       "invested": 124746.87,
       "news": [
+        {
+          "title": "Salzer Electronics cuts FY27 EBITDA target to 8-8.5% on cost pressures - scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUzUzQ1ZVbFd1ZDZkVFVQUE9aVlZTZlZfUWU4cHE4VGFiTW11VVpkUDZOT0tpSkpxeHB0LUx4emNOT2N0bk9KVnpEbXlHbnlSM3R3M2o3SktZNVZGbDh2T3VtWkJqWk5GYnVIRnUyZnUxSFNQUXhxR3pTdGxXZjdFSjhMQmlOQ1BWeHhhUS14R0FaWnQyTXNwUWRaNVlkRUgzQ085OU1XZjl3QUsxc1kwakZFMG9WeERpNWFoeUhuWFN1Zw?oc=5",
+          "source": "scanx.trade",
+          "when": "Sat, 07 Nov 2026 03:50:28 GMT"
+        },
         {
           "title": "Salzer Electronics slips after Q1 adjusted PAT drops 53% YoY - Business Standard",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUGhpU09PYWR4SFVrWGRDMEczT05HNkJxOGFGNTljQ2lJek9zcVlaV3pCekpvUXFDY1JFaW1TUk5tblR2TVFpeVpoaG5rVzZSOEE4czVidTEyVFFrRXA1Qm1uY3lOY2hLVTBwSW14RWdfcldwQTRKdlllbjhjOHBrT1BSWi04NWFHcWI1VExiNmJHODRseWVDb3l5WnFRaXVka0w4ZlRsbUpucWlqWlRNdzh1MmRfM2lmUDNZSjV1ZGY4N3hTUU0xbDdaaEs4Nl82X3VRYTNhQ1rSAd4BQVVfeXFMTmFTbmM3SjFYbWRCVWFDRWlFNE9EWW1GNjdqUUFUSklhTUFGclh3MS04TndRa3kyZ0gxVVpGb2tXcGRUS3ZaNHI3LUJ1M0Rvdld6d01DbDhxS2daWHp3QTdaNjRfT2RkcThXSGdmdlhQSmFkblJ2MXRqeWZ4Y1RSV3UyTzhnc19jUG5LSGNINE9Sck15UEc1VDFoQlNPUDhSeW5wLUl6bXpUV2NpaVZJc3VOWGtKcjBuOEUtZU9DM1RGdWVlM2I4cmprSk1WU0ZZX1M5WkEtQzlmNjNHMFdn?oc=5",
           "source": "Business Standard",
           "when": "Mon, 10 Aug 2026 07:00:00 GMT"
-        },
-        {
-          "title": "Salzer Electronics cuts FY27 EBITDA target to 8-8.5% on cost pressures - scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUzUzQ1ZVbFd1ZDZkVFVQUE9aVlZTZlZfUWU4cHE4VGFiTW11VVpkUDZOT0tpSkpxeHB0LUx4emNOT2N0bk9KVnpEbXlHbnlSM3R3M2o3SktZNVZGbDh2T3VtWkJqWk5GYnVIRnUyZnUxSFNQUXhxR3pTdGxXZjdFSjhMQmlOQ1BWeHhhUS14R0FaWnQyTXNwUWRaNVlkRUgzQ085OU1XZjl3QUsxc1kwakZFMG9WeERpNWFoeUhuWFN1Zw?oc=5",
-          "source": "scanx.trade",
-          "when": "Sat, 08 Aug 2026 13:57:47 GMT"
         },
         {
           "title": "Salzer Electronics Ltd. 52 Week Low Streak: What It Means - Univest",
@@ -156,19 +156,19 @@
           "when": "Thu, 22 Oct 2026 07:00:00 GMT"
         }
       ],
-      "current": 61449.15,
-      "pnl": -63297.72,
-      "pnl_pct": -50.74,
-      "day_pnl": -1380.3,
-      "day_pct": -2.2
+      "current": 71253.15,
+      "pnl": -53493.72,
+      "pnl_pct": -42.88,
+      "day_pnl": 9804.0,
+      "day_pct": 15.95
     },
     {
       "name": "Samrat Pharmachem",
       "symbol": "SAMRATPH.BO",
       "qty": 266,
       "avg": 369.95,
-      "ltp": 254.8,
-      "prev_close": 260.0,
+      "ltp": 257.95,
+      "prev_close": 254.8,
       "invested": 98406.7,
       "news": [
         {
@@ -190,80 +190,99 @@
           "when": "Mon, 17 Aug 2026 16:48:36 GMT"
         }
       ],
-      "current": 67776.8,
-      "pnl": -30629.9,
-      "pnl_pct": -31.13,
-      "day_pnl": -1383.2,
-      "day_pct": -2.0
+      "current": 68614.7,
+      "pnl": -29792.0,
+      "pnl_pct": -30.27,
+      "day_pnl": 837.9,
+      "day_pct": 1.24
     },
     {
       "name": "Veefin Solutions",
       "symbol": "VEEFIN.BO",
       "qty": 800,
       "avg": 307.1,
-      "ltp": 230.15,
-      "prev_close": 235.05,
+      "ltp": 243.7,
+      "prev_close": 230.15,
       "invested": 245680.0,
-      "news": [],
-      "current": 184120.0,
-      "pnl": -61560.0,
-      "pnl_pct": -25.06,
-      "day_pnl": -3920.0,
-      "day_pct": -2.08
+      "news": [
+        {
+          "title": "Veefin Solutions gets NSE in-principle approval for mainboard migration - scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbThwLXlDSWtDTVNKNjZWTk1qVnpOZFNoMWotdU9CTzhsTE9LTkJnSklrY0lrNV95eXlFZ29lbFNteFhBSWJmMW4zekdRY0VMVkg4RXJsX0JOMTJSRHBHYk5PR2VLcnpBajJxNGwwSjd2elN1b3d1TE9BUGZ3SDJhOV9fR1NROENBNk8yMnYyTDdKcGdOaXpjTUt4NHlKbEEwWEx0RC1sNUVMeEFIVzZKUHdONUJnWFBZb1E?oc=5",
+          "source": "scanx.trade",
+          "when": "Mon, 26 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Veefin Solutions Ltd Shareholding Pattern \u2013 Promoters, FIIs & DIIs - Value Research",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1FWR2FmMlNIZUFidnJNb1RsUTZFMjdFQXdkZGJKSUlrRWg2OHFrdnB0Y2lWX1gtY0VtdkNzaGtXTFE3S1JaaFBhY0RrUHVrT0RTdGlMY0VEUzZ4LUgwa2ZGcjh2ZXNteWJNNEMwSnU0NjVZdkRzckRDRlY3UWxCSW1KQkl3eGRSVEVQQg?oc=5",
+          "source": "Value Research",
+          "when": "Thu, 03 Sep 2026 02:08:36 GMT"
+        },
+        {
+          "title": "Veefin Solutions Share Price near 52-week low, analysis - Univest",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFdyUVZNZlJtRzdxQmJuNnItMl9UUF80WlFsN080Z1NQbkdLUi1LU1pBYXM1cDNCX1IwR1BEMS1vT1duU25oN29yYnRwZ0l5WnA3M0NoVXhDUzJkLUl0Vl9yM21HREgzVl9LV2FrTmZSVXVqUHhJVnRDVUd1SEcyeHFGalZPZmFJaE9IZUVXcUhBSkU?oc=5",
+          "source": "Univest",
+          "when": "Wed, 21 Oct 2026 07:00:00 GMT"
+        }
+      ],
+      "current": 194960.0,
+      "pnl": -50720.0,
+      "pnl_pct": -20.64,
+      "day_pnl": 10840.0,
+      "day_pct": 5.89
     },
     {
       "name": "Azad Engineering",
       "symbol": "AZAD.NS",
       "qty": 175,
       "avg": 1672.92,
-      "ltp": 2422.7,
-      "prev_close": 2582.9,
+      "ltp": 2434.2,
+      "prev_close": 2422.7,
       "invested": 292761.0,
       "news": [
+        {
+          "title": "Diwali Stock Picks 2026: Adani Power, MCX, Azad Engineering, HUL, Paytm among 41 stocks for Muhurat... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPQWI4TzdCd0VrU1pySDZCVWdJYThQSnRVMzJlRm9wTWcwaFdtYk9LOXZ6blNDcTdjNlVfYklMUHVHOW1BdDFaMnR5UmhhNUpNcVZFY2xmc29DRzlpWGhfNjA5enlhc296dFd0aGRZOWs5NGV5OHFteldZRmU2STZwZl9iN1dfVkJUQ1Z4a3NCMUtPd0hVWXV1bE00bzJtVTBqSl9ZYU5WSDV1UkdPbE9CYmlVZVhab0pzejlFeUZ4aEZuTWFrRHVMOUFkUWg4UUJRUGVHV2FYNG1TMjhfUjhIeFFld1lBRF9ZaHhpWmRtcXBFVTlIaHlBXzc5THBmc2pmY3FCdEQtNUU1aUgtRGl0MjZMaGozOURv0gGeAkFVX3lxTFBVZXJFX3ZROTdEbE5UMTU5ZTRuRXB5OHJUUmxvUUMybmQ1WXc2OW1EcDFQSEpsOTlRX05EUGkzcDhlWlAzWHZ0MVowUmJOSXJNeGZoeFJLdVc2TGVZSzN6ZUdESnZ1S0VTU2lKR0pHQ3BUbUo5dlZmQkVTeTk5V0tOU05LaWRfZjFydm5mQzhfdXBnMWZjU1EtdlpDa3FlOVhkek1CS0FROG1HRHA5M2hncHVBcHZIWUoyWHdEU2hmQ3dQWXRjNVJXMWRpUlphTTdHVFNZb0ZyckVKQW9HbFZDZHhadFBxdk5jWHBkQXNCZV96SWpMYlpfdzg4ekJnUFpHR3pfOWlYMGUzTF9RUGt2ckI1dXVidUlta1VlY3c?oc=5",
+          "source": "Moneycontrol.com",
+          "when": "Sun, 08 Nov 2026 06:44:06 GMT"
+        },
+        {
+          "title": "Azad Engineering Q2 FY27: Premium Valuation Under Pressure as Profit Declines Despite Revenue Growth - MarketsMojo",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdHk2aFotVk5GYmE5S1FjdkhrRmdrSnNBaFZHSXU1X2xfZG1CVW0xd0V6eXc1V0w4VVBtZFZYdThFM1hLeTZic090dU8zT0JQQTBJS1lyUXdiV1B6cHprZ2pWazlHejJNUjZPMW1vUFBoZjdNMFlOS3FuZmkwRHZnWU9FTmJieks0ZDFLWkc3LW5NWWRhZFl1N1otd2x0b0ZPUnFWaWlXNXZBdkx6YW5NbWx4RXd5ajFiRndlSFJUZk94Y2w5YkxiMGoyYXhXZDBfeE9Db1UxRTR5Q3pzanNQMjkzTHY4cENnbUNreg?oc=5",
+          "source": "MarketsMojo",
+          "when": "Sat, 07 Nov 2026 15:42:46 GMT"
+        },
         {
           "title": "Azad Engineering shares extend 2026 gains to 82% after Goldman Sachs thumbs-up - CNBC TV18 - LinkedIn",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaVA2LTYwdnNyQTFlYTAzVHQtems2VlFBX1RFbU9Xd1o0eDgtdGplZEJGNmNoTUgyZ1pvcnZiTEw2MlFCLUQ0aWFiZHRWRmtzTWZYcmplSW9HRkVGS0pWelQ2TjNaM0xQcXdWdHhrRzBLOHFkLTNuY19VRmJid0pTQURQXzNVaXR6UGtEWm1wV084ckRoRDkyRWVWdVN6SXRQNjRGNnMwZ0hMczNXTzZnVmxhdUxacWc?oc=5",
           "source": "LinkedIn",
           "when": "Tue, 29 Sep 2026 07:00:00 GMT"
-        },
-        {
-          "title": "AZAD ENGINEERING LTD. Share Price Today Up 5% - Equitymaster",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0VITUtxY05TRDVWZHJuc0ZkMHVGcDVwNGg3cjVSb25WR0o1MkRwcWlMMkZ4U3psS0U4VzJGWkcwcGEzRWlHa3V1cDhHd05pNVZKV1lISDM5TlpDVkx1TV9hZk1jNlhFUTA0a3ZONWxqUncyVmdHX3MwakppUGd1eVl6Q1lPSEk0QzcwTGZKWEYyOUUxRlE?oc=5",
-          "source": "Equitymaster",
-          "when": "Tue, 06 Oct 2026 07:00:00 GMT"
-        },
-        {
-          "title": "Azad Engineering zooms 111% in six months; hits new high on heavy volumes - Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd0JBLTVoUWt0NlFZendQWWRWSGhMVE13RWVPcjJnQjUxWWJRLTI3dVdRaHlGblU1RHp5eXpzUTlkMGxkN19oOThqUEtLSUUtQnhZSnBPOVppTWxOVExMZURKdDFRQUxoenNKZ3Frc0J0YXE4Z25MR2N0LTNucXpPT1g2cllraTBnakluREJSQXN1MnlIOUdnVWFDQTJxTHEwNFkyb19zUXZaRmU2SnpyRUxfMng0T1F0b3kxMXhsYTF5WHhkcEctSGIybm8tNnNvX29NX9IB2gFBVV95cUxNRmRTdUIwaG5YVVNEY2ljQ3UwYm5lX2ZZRHB0SmFRX3k5T0w3WG9rZk51RTRjZEc1Y25xMUhtTVMxaExlRDlLeWtUX2tFMWo1WFBZaEVRcVJLZVVFVTAzNVRBTGVrMHQySWtnNlRLVExMZmJRQ0hyWmVtQ1FuQ1gtZUZSSk9KSnk4dGNheEZFMEp5Y1g1OWRhMVJVWUtVb2tVNXEzU3pjWmVYdUFfbmlpZVV4SmVKc3JaTmZzc1dicUw3UjlJRHAzYzBEZnozZjRxdkF4ZWlPX1Zndw?oc=5",
-          "source": "Business Standard",
-          "when": "Wed, 30 Sep 2026 07:00:00 GMT"
         }
       ],
-      "current": 423972.5,
-      "pnl": 131211.5,
-      "pnl_pct": 44.82,
-      "day_pnl": -28035.0,
-      "day_pct": -6.2
+      "current": 425985.0,
+      "pnl": 133224.0,
+      "pnl_pct": 45.51,
+      "day_pnl": 2012.5,
+      "day_pct": 0.47
     },
     {
       "name": "Unimech Aerospace",
       "symbol": "UNIMECH.NS",
       "qty": 200,
       "avg": 1295.44,
-      "ltp": 1739.3,
-      "prev_close": 1806.9,
+      "ltp": 1806.2,
+      "prev_close": 1739.3,
       "invested": 259088.0,
       "news": [
-        {
-          "title": "UNIMECH AEROSPACE N MFG L Share Price - Upstox",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IdUxIWGtnRDZadk1PMXV5MmI1TUpiaUhzZjkwdHFlNDlqVmhNeGxuY0JFTE1Yb2tVcnV3Z0dPV0ZkcXF1MmhjTTlfbmhERGhzR2lObzNHR0FVZldmOURQQ3pDMnp4UDd6NWN5UXlMZkJRdw?oc=5",
-          "source": "Upstox",
-          "when": "Wed, 04 Nov 2026 03:24:37 GMT"
-        },
         {
           "title": "This Defence stock is up 144% in just 5 months! Read Details - India Infoline",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVI3Zkh4ZTJwMjlFb0RRTGhVUjdIMS02QVNNR3RMUkdrY0d6M3pDT0JUSWhyZnZnY2VyWXJzTnZBZGhWcERFOG1abDR0LVFXWFQ4QXZCUDFFSlZsSGdyZmVRb28yVHk0eWdEalVvcEQwaUVwUDh6OERqUVNTRlZ4d3ktbmxycEtVODJwdzhOMEdhd0Y1c0lsbHhkRkFuam03RmZVcWtR?oc=5",
           "source": "India Infoline",
+          "when": "Mon, 21 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Unimech soars 7%, up 144% from Mar low; what's driving this defence stock? - Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMF80WnBIUDBZM1V1ekE4d1p0czJDV1BXdXZDbmhmdVpZdWM2cGpnMHhVdm5IbDNocldteHo4SktxQ0lzX2gwbVFXSWEwXzE1dy02Z0JoX0VvakpRSE9ac1pUZm52dG9WR3M0Y2d1YWtuOEgycjNOYmRGcXpscm5CXzAzVlFyM05PQ3luSDNCSzlwamFoUjJobE1RX3BNbUNYYUpyQW9UZkN3T1JUajJ6SGpING9rVTJJWnE2S0p2V3k1RDRmLWFwZ0RDN1hBcnlhQVVtMU1ndC1NUdIB3wFBVV95cUxQb25NdW5XUjEyZ0Q2dTBOSWtiYjBDUW16a3BtYURtU1drcno3TUgyeWRDSUR1NXo5TGVVWmN2enp3QXhLSnRqVjRPaUx2TElyanZWaEEyNDVzcWY3QWZtSGIyUUVLMHdpYVZfNzVVOThYMmtVWHE5Zk9KWEEzcjFQWGVIOG1lQXFIV1V6TWotVVcxcDBtSW1HR0tVT3QteENaaDZSVjVKU3hTb3RWdF9oV3Ftdlg4bC1peDdYRnBwSjNMWE5JZlpka3haSEluemxXYW02T1psOUdUVWl5ZTVF?oc=5",
+          "source": "Business Standard",
           "when": "Mon, 21 Sep 2026 07:00:00 GMT"
         },
         {
@@ -273,21 +292,27 @@
           "when": "Tue, 03 Nov 2026 10:14:17 GMT"
         }
       ],
-      "current": 347860.0,
-      "pnl": 88772.0,
-      "pnl_pct": 34.26,
-      "day_pnl": -13520.0,
-      "day_pct": -3.74
+      "current": 361240.0,
+      "pnl": 102152.0,
+      "pnl_pct": 39.43,
+      "day_pnl": 13380.0,
+      "day_pct": 3.85
     },
     {
       "name": "Avalon Technologies",
       "symbol": "AVALON.NS",
       "qty": 153,
       "avg": 981.05,
-      "ltp": 1893.6,
-      "prev_close": 2100.0,
+      "ltp": 1855.5,
+      "prev_close": 1893.6,
       "invested": 150100.65,
       "news": [
+        {
+          "title": "Avalon Technologies Ltd. - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeFZjbGpnSHpLUE5mT1NjdTNUNGRGQUExVlpXMjZ1UnV1SV9MSTFWaDRtMUNwdHRKUFMwX01nUUZPc3RwRWg3SzNVdFltd0J4UjA0dHEwVkVIWTJQTTNwVFpqd0Vjd2E3RHc3aGJOUlhnNnFmNC1oSDRTWG9ySjFIck4xV01jUHNkUU5ydUozQW5ta01KajFJZDFIOEFFUQ?oc=5",
+          "source": "Moneycontrol.com",
+          "when": "Mon, 09 Nov 2026 10:22:49 GMT"
+        },
         {
           "title": "Avalon Technologies stock drops over 5% on reports of promoter stake sale; firm issues clarification - Upstox",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZHNXNDllOGNqdjRVcGdCWWZXUk9JWGRKMUJ3SlNmdkY5c25aX1k3R3lObkRDS1dzeWpfbzJzNXJjS2pxeHhMWUNGMVlxMmZkVGRPdVhybVV1RGJMZWhOMEtvTEZsbHdnSFZERV8yZDNhaEFFa182S1JIY0tQOTh6Mncwb1pHSlk3UmZTcE43RlVSd01oNFJDRHdnM2hUdV9Gejk5ZWJSS3hqdTRxYTg3T0ZQNFhDdEk0RzBpQ1FQUVVIbHo3R2JWRFNtWVBQZWhiVjJSalZfRjFEWWJBRmkySVhUYVhodkdJRTNOYVF3?oc=5",
@@ -299,69 +324,57 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGFqQXBybUcyQ2VuejlNdzBydXpUdFhOSFVuSzF4T0t5dTB6bDNFcG5HWTNpNlEzbHdwZWdESXlLZTNCbWxacURSM2lkTzFnRkMtZ0llYXEwUkI0Y1hhbVRZX2NNTkhnRGFyZ3kxNmU0blpDdFowSkwtVlF1OFBCNGpfYTF5U19ZMWdZcjc1WFZxNEVBVUprNjNIeE01VG9CQjNXelV4UV85eWFOQVR0RS05UGI?oc=5",
           "source": "LinkedIn",
           "when": "Tue, 29 Sep 2026 07:00:00 GMT"
-        },
-        {
-          "title": "Avalon Tech shares fall 6% after Rs 883 crore block deal; 3 promoter entities likely sellers - The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUjgyYWRpSm5fY3dVLUdfeHhjZlNzOXJDekw2Y2dzU3ptbDhFaGpNdjAwa0xSLTNtdHJRUDh3aUJ5eDBvdnBqUmxZWWxydUYxaV9iYktCeERTY21UdmxJaF9ieDBKamJtcUdwTU9ubFdkazVBYWxCZlQ5NG1DaUdsQTZEMWVYOVhYWEhyc25oMXFQbVlUZnNmaXF4aWVzWmprUVhQNTMwdHNsbklCVGVGVmRJNGVvUktfQlhUZWJDUXdrUndFWnhNcVdCaGxQTVVidHBfRHdwOEdHMDRXNzBpWjNId0ZCLU5NbkRqMVBWbkdySFY5dzEw0gH8AUFVX3lxTE1zZ3RtRHcxSEhENHlKSldNTnlwcDNNNF9EMDZCM2JqQ0FzbEN6bVdwcWFNYTB4ME5uWDdRN0RybGJQcElUcjlfSDB4R01sSzVjRE1BNm9HVmdMRTYzeHYtOHEtZXdIUkRqT3U0ZFFEbG1pVVpsZDY4QlBrMXRvc2pKYmFJd09PZmRZQ1NpeWdmQWxWY0Rub19QRjAtTV9JMm1SVXNSTHpkUll4bV9WQXFTUzZmWTRoN2ZDMUxCRHJHN3pJaFA1TEFfSDNBc3BSdnlzdjZpSHJiTlRWdGZpZlZJLXlha2RBSi1WWnFFVThBTm5obm1HNUpsV2dGOQ?oc=5",
-          "source": "The Economic Times",
-          "when": "Wed, 30 Sep 2026 07:00:00 GMT"
         }
       ],
-      "current": 289720.8,
-      "pnl": 139620.15,
-      "pnl_pct": 93.02,
-      "day_pnl": -31579.2,
-      "day_pct": -9.83
+      "current": 283891.5,
+      "pnl": 133790.85,
+      "pnl_pct": 89.13,
+      "day_pnl": -5829.3,
+      "day_pct": -2.01
     },
     {
       "name": "Apollo Micro Systems",
       "symbol": "APOLLO.NS",
       "qty": 500,
       "avg": 103.38,
-      "ltp": 413.65,
-      "prev_close": 434.65,
+      "ltp": 414.05,
+      "prev_close": 413.65,
       "invested": 51690.0,
       "news": [
         {
-          "title": "Apollo Micro Systems shares: Up 45% in YTD! Defence stock rebounds 3% from today's low; here's why | Target, stop-loss - Livemint",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWjl1ZDlxUUY2NW9ENzJDLVlmTGJ0blB0WWw2MjZjbEdqMWlVSXFlT1I2VXdrd0RpNDFBdXNJdHR1M1JQdjE4NE1kOXg5dnE4aVFaTXpaQ2Izc1huUGRodm9kVTlvTXVVU2xMY0dtRWJCR3hpVE1UcFpaTTdKeWNBZWRGSnJ0SGEwaF82NHl3bGF5RF9tQ0YzM1VKUkJoNnFoTHp1OUdUenVKclFpSEZiSmszbm1odDZWVHhUekJoRVpDYWtGZmJlRmZzYzNZbnNxdWwzUmpObGpCYjA3Xy1vTzN2UUN2VTFCV0gxRTdWd1JMcEhoTXdONHNBdjBFck9vdU1CWWVtWnHSAY4CQVVfeXFMT2ptNmxzd3ZxT2xieFNNMXFXMS1ROGFmVXctNEVNSm9rQjFEcGRqMTBCZTUyTFVkRkpvOVpRRjg1RUNYXzNVbzRVcWREbG1OcjJfTW1QUmM0Q1VKVi0wcFpjNlFtQkxOY3dQMlNoSkRiUmxIaEFHMFpvUnRVcXVGWHlIT25wYzdxZXdqcmRCR2dnMmY4SS0yTU42dmJuS0VyY19xT3kyQjBuWjdVdjVzVmY0SUFFUThrUFhFcVMwS29NQlgzX182V2p5MF9qYVltV3NuVzM4NmlXQXdXM1ZEOTdmNHBvUjJaSXY5OUVkeGNaMXdlMldHRjBPblZlSi1FVjJGSmFOanZuVGU4ZnZ3?oc=5",
+          "title": "Stocks To Buy: Brokerage Recommends Adani Ports, Apollo Micro Systems & More; Know Target Price - ETV Bharat",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOblRaMXhqNlozdXJnUnkwcGZSUFV4VkNqWEtwQVpJa05YUExzRFI2czB0T3FWMWlrU0pVcF9nRGprYzhpbTIxVV8wM2U2WW5qWFI0SnVMWGYtVmltSWF2UExEMUtnZ2Y5c0tIVEJvQU5sbU05MGRIcWFYZWxYdnNzMllBcjNmbWRGUHotTGhjMjNDMVFUMzBxb2ZKaGVtUGVDU21CWGtHbWlfcjNqd3VFWDE3ZGE3R0lNRWFZS3ExY203UUtfMzV0eUtvNW1tU0FWc1ZGStIB2gFBVV95cUxQTDYwN18xZW85Y3VYejZWcVFRN3dUMnJVS3czZG1qTHJ6SzNkOWJNSXVFYW5hMmhTX1JXczJNc3dua25sN092Vi1aLURQVzg4eVdPV2RLMFdMOC1ab3pWVlZrQWt5OHBySXRUY1ZYQUFMNFN5QXBNS1JEajZQc1ZyUU8zSU5Gb3ppZnhrMUNCUFhoaldibGR1d29raDh6c3FmZkM2RGx4YUVuRlN2cFI4aFNIRmpGc3B0Y21EZlJ3ZUJldk1RakVENl9NcmQyTHpKTU1HOVpFZUkzdw?oc=5",
+          "source": "ETV Bharat",
+          "when": "Sat, 07 Nov 2026 09:46:06 GMT"
+        },
+        {
+          "title": "Muhurat Trading Picks: Shanti Gold to Apollo Micro Systems - Angel One\u2019s 8 stocks to buy on Diwali 2026 for Samvat 2083 - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQcFR6b3NMRGtrZFpMYmVQSGEwOE5hdUtVa3pVM2RDbnZ0Vlc5NTNia25PMVNJZEZERjc2T3ZZS1Q1YkNlYmNaYjUxdWlyeFdwU1BqUjhaT0lpRTVQajlaX045eUg1V2wxNi1mdDAtV29pNTZqTHFEOW53azZGTVNGRUVUUlRfaExMTXJUc0lLakxlcDdCck1CWXhBWmExU0ZpQ3I0bzg5Unh1b2I3TjVjSDYzdkVUYUhiUmN3OGhKdXU1T1poRnAwNjFFSV94bGwxeFI5ZnpKUm1vRC1kMzZJTEwxYnVOTTJXRWU5ZGxfUFA1dVI5WVNNOTlTcnV5WUYwdVFvNFE4bG5sdDh5a2xSZ2FHanTSAZoCQVVfeXFMT1dyZmpYRlpkVEREZFpBVnpPVkJJV0x2Qm1lbVhtQzRfYUhYWFhrYXVPM0F4aEJDZVBQU3ZQa0tOMjJsM25rSWo1dEVBZFFtOG9wemZ5Q0xEbENDa3NQUlU4cUtrRXJHTjRrUzJtNnMzdkQxaElNdENieTctYjR6WXduVTF3Vmk3R1lYazNKUVFPaXpqMFZKVE9tZkFiclhUN0NBS2hFZlFVZHBwUUJXYVBFTmpwN2Nvb3hRSnRiVEtJZzVHdFVnUmdKVDNSeEMzbUYzQnU5NllUX2lnZkRZQ0VoXzF6NWRFeFo1aVZIbVJQQnlYSkEwX3l2NUtTRTFOa1VjeGsxSXRyU3B1d19UTGFZN1FHdE1SSFFn?oc=5",
           "source": "Livemint",
-          "when": "Mon, 02 Nov 2026 09:09:41 GMT"
+          "when": "Thu, 05 Nov 2026 02:23:42 GMT"
         },
         {
-          "title": "Apollo Micro Systems completes 26% Premier Explosives offer - Multibagg AI",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTFpTdWlTZ1BuMkJ6MzhVeHljckpfZHdUWUs1S3hXY3RwRmNEa0hpMXN1ZGEtaTVIaU5CMWt5ano4WVVycHlCUDBmb1JXREFLRGRKa1NjQ0VtdHVhUWZJOW5USUdKcWZ5UU9WbExBdC04bGFkc19rV25pSDFGUFEzZHdYNFpFNHNaVDg5OEgxdkc0VmJGeE44WFY2dEJ2YTR6ZXg2V3FXaVh3WUxGaVNHb2p4REJzNW9LQ0Fhcg?oc=5",
-          "source": "Multibagg AI",
-          "when": "Thu, 05 Nov 2026 13:10:58 GMT"
-        },
-        {
-          "title": "Apollo Micro Systems' IDL Explosives Commissions 9,000 MT Plant; Shares Fall 1.79% - HDFC Sky",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeFIwNmpuejNGOEFJVy1WMnZRdnN2Ukd0ME1LTEg4T0oyVG4xX2FTeUs5cXBpckV0eHRCempRS2FuSEpvX2x3S0FiWEwycnYzems5SXFKMW5GbGxyR3lOYTIxWURxSnlYQ2hCRWZIRXNNRWdqbHdvMkdkbTlIeDFhejNVNFIyZFVITWxQTnFWYw?oc=5",
-          "source": "HDFC Sky",
-          "when": "Thu, 22 Oct 2026 07:00:00 GMT"
+          "title": "Diwali shagun ke shares! Angel One selects 8 stocks with up to 50% upside to Buy this Diwali. How many do you own? - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQMEJUdDNwWGVJa1E4OTZQZUhENk02RUxQYlVaRVpRZm90blNKSTVpSHRQS0pDS19PclZ6cnUtdUhKYkM5RFZlaFZ3RU43a3pKUnExdDdMZ2hkVGpOeTBGcXVjQlF5S3lpVHMwTFRYOGJDeDAxeFgyazFxbkI5dDFnZWVjajVBWG40M3dFN2FUeklOT0dEVnhYNURBcDNXdGlXeENSdTQxNXhHUUFlVk56TG8tdzJ1cmxxckdOQ2ppX045S2hwTExYSk5PNlhVSUlrY21pN3lBUlZULTREU1o1S1JyVkFMU0NRekRybGNZY1E0UGNEcmdXYnVBOXU0dEh2Vkp1Q3R0M0VnSjh5QUc0QTlUd2tUU1FNamZ3VmVQWHFBR2dZY25Fdk1KVQ?oc=5",
+          "source": "The Economic Times",
+          "when": "Sat, 07 Nov 2026 05:14:16 GMT"
         }
       ],
-      "current": 206825.0,
-      "pnl": 155135.0,
-      "pnl_pct": 300.13,
-      "day_pnl": -10500.0,
-      "day_pct": -4.83
+      "current": 207025.0,
+      "pnl": 155335.0,
+      "pnl_pct": 300.51,
+      "day_pnl": 200.0,
+      "day_pct": 0.1
     },
     {
       "name": "IDBI Bank",
       "symbol": "IDBI.NS",
       "qty": 2100,
       "avg": 70.62,
-      "ltp": 79.5,
-      "prev_close": 79.72,
+      "ltp": 79.69,
+      "prev_close": 79.5,
       "invested": 148302.0,
       "news": [
-        {
-          "title": "Top stocks to watch today: SBI, NSE, ITC, Sun Pharma, IDBI Bank shares in focus on Tuesday, 3 Nov | Full list - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOb2Z6OVlScDlseG5vUmtjQUpBdlh2OXVyVk5lYmtkUm0wLXlYYXhwb3RpVFFoWVBxVkNIWTQ0TExPcENvcmJ2YnJUbmxCZGwxdXA3TzBrTmVNOVlzWUMxcF95aFFnU25CbmVjUTdRN0owOUpGZW0zWGFFY2NSaTJxZ09YUFFKYnBVX3ZkZGxsUThQdGdzMXZhd2c4RHBQeGZ3S0wtTjZLUkdpNy0tX1B2TWpPMDdRLWo4VFJza2NlcUs3YVQ3S24wX2w2TURUVEo5UkpFeGV4bUg4MWttQXNtWW9mblVoTGVfWjRLV25CQQ?oc=5",
-          "source": "TradingView",
-          "when": "Tue, 03 Nov 2026 05:15:00 GMT"
-        },
         {
           "title": "IDBI Bank shares rally 13%, market value swells by Rs 11,460 crore amid muted market. What lies ahead? - The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOc3k2b3hHaGtyN0NlZ05DeV9yb1NDZHVpMkhOV2Q4a25vWmR4NGpkYS1wNUhsUERERGo1TXpXSEZDdi1vY283TUJvczFSY0dWeXBHekJGTWFuWHl2Q1BRT3VEd2VBNzhJWUlqX3RJWkZXZEttSzZkRWJtRUF3Q3JNTUV3V0xCSkY1cXBvWHJqc3BfYk12UmxMc2xoTGdhY0VUbGNaNTREMF9LYnRwYVExX0dlV2JpRzJoM3ltZjk3N19nNFhZWmdXSnB4di1HV3RjZU5qZFdSeW9xZjl5NlJnVW1jRmZIMlNFU1cyZmNlTElMRkVCT0dGeTE1VFJjU0ha0gGGAkFVX3lxTE1SZnBvVkJvZ1lFck55ajYwdzdCOUNTbEI4MV9ONXRGeTVKT29WWDlwSFN1WTBGTTV6d1VVQ2xYbWQ5LTVVSnc5WnlZaEpHbFBZQ3E1dl9USEt3SXk2a1IxbTVETHlpTUhHZk9zb0ozOUVnRGpEYXgzc25nZEJzYUR3VkpPbGxZX0tkSzdPeXJITk9rYnJ1V0V3LWU2S0NHTFU2eGIwN0tHYXhjRkhYVGZMdW9GUkN2dktwY3dRNkcyNGJZMUxjLUtjRmpGRUM5Mm5CWlRGbFctTm9xSDlnc1JYQy1NUE1VdmJsRkh6SXJkMWNBWXB0LVZnekE0MGpIQWRrUTFhaVE?oc=5",
@@ -369,17 +382,23 @@
           "when": "Wed, 14 Oct 2026 07:00:00 GMT"
         },
         {
-          "title": "IDBI Bank shares crash 7%: Why is the stock falling? - India Today",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUm84QVBTb2tKRWtjME1vRmpBX2l2azdjQ3B4Y0ZpeVRoZ29OeXVEUHMxUUIwYWc1aE93UE01YVhGN05qWmRnQ0UxZHM1RU9sT0tlTHN5VVBRRUNCdXFYLXFWMHc5UWo0ODlaRlYxQ1VxU01teWlpbVRNMVp3OGRkZnUtYU56T0FPcjRIN2stNF8xLXNkTDNveG42VlNiXzBIcFNFdUg4SllrcnFMdjVzdXhLelZlczdKY1pTMG1qc1NmV21xMnYxZGl30gHPAUFVX3lxTE9wOFNFR2NRNl9PTEdNdEVpSzgzUmIwZktOcjVNUUpsN0RMYkFocW41RUs2Um1uNHhpbHF3V0EzNFc3SWdmYnJnRHRPV0JEVlhaS1F5SlpfZWxTQVhYMFhfdTAwZy1qbExtRGc0MXJEbjFzRVBtMmE2c05vZVgzRDJyeXlPWVZDbXdUTmZFVTd6RjN1dmxEa3dQQW1QTFNPUVk0cUVQc2xtbzBmYzg5YkNPV0RKejBZdXBXa1ZsS3k1VURURFJVNUxLdzQ4X1JQNA?oc=5",
-          "source": "India Today",
-          "when": "Thu, 15 Oct 2026 07:00:00 GMT"
+          "title": "IDBI Bank shares delivered almost no returns in 20 years. Can Fairfax deal finally turn stock around? Experts weigh in - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQcXlTclZ4N3hrQXJqTG94QjhlaGhYN2NkYlpDcl9oRHFzRS1BeEFJeTZMeEV6QXVhV1I0MTByWEJCNy11Uk53bERVQjF4YTZWay1qYzd1aDFGbzBkWUlpZmYyTzZsX29kN2dZRXlQc1Jham9ZZzk1TmNaZ1lVUngweTktWWRaVms5bm1pbGYxdnNHTHFReFMyYjUyWVRoU0htMU1GWWdCRXhHVFlQb3hMMXlKRDYtR1l6djk0V3lXY3NfVjdQOUlkQjFSSjhEZ0xMUHgxa0pxb0JIWGxLNGNwTHdPQUl2RlBzRjljRm9MYXNzWEZxbHFXazZiTVpIdHJzUzhvNW40NjA3Q0RyeWhaNzFLaUrSAZoCQVVfeXFMT2tWazZCcGR3VVhLTm8ycHpLUFJ3TGJhSGUtRWRKYXZTbUdMRmJRbF9mS1hGYzdnem9ud2lCZEx2Sm41MmY1RVNXNDBpclRIek5WUWFSZVpNNW9xQXR5TmJWSjdtendzYUNNTWVCWlltMllXVUJJbUVQeGZFYWN1bFNpOU13VnRwMXE1V3QzbzRVR1d2ekNrZmdCbE5rdldqeFp4LWY0X1pIUXVySlVHN1ZpMVlRYkt3VWhtVVdzM1JzN3hDTmdyRE1WdmY5M3NvemppcmRocEotZFB6LVFycTZsVTIybXpMRDcxb3Vqc3J1cUdUdldQRUNrMUVIYzVWaG9RUDFzeU5YNHJORDRnMHNTWDFiNk9Fa0t3?oc=5",
+          "source": "Livemint",
+          "when": "Mon, 19 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "IDBI Bank share price zooms 13% to five-week high on heavy volumes - Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNDVJTS1qVXZsRU9jdl9weWhPYlV5OVpKLTlDcV9lNWtVbnVWZmxSY3ZVOXNldDNfZy1zaTlROFpIX0FXN2hpaUM4Z2VHOXBDNmtRYU5CTEVaSkxPNmhUZ2M4SUZndU9fZDg3cURSTnp6Z2lNZERLZjk0R3BTOXVjNXhIUFRVb2J0UVN5TEJ6RE1RUXJvMWN5anhiaXlTbnVqdTlIbGtVQVZxX1NMYUkxXzRtVFFTenpGUzFRVEFUR1B2MDlvTTZwSHNTZzbSAdIBQVVfeXFMT1FNUm51ZEE2SmYzbjU0ekZXaG44Wml6SjdqdkxCUDNlUTVZSGNEd0pjRV9jYlVUdy1kank3SV9zbXhKOGFkSWlsMnRhM1lkRzNxanA1OG5uNnp0ZEgtVk5GN0tLektBVlNxdFpjVHR1QXpEYTNwWXZiUXZlb010cFNlQUV1VmQyUUJ6RXBSSDFHWTR3SC1BRm1VNTZmdXgxMHFOM1FBVXhlbzRDNXhUUDBkTWhtUkJnNmZ5ckhzcGZwTW5hU2xCZ3dYZjJUTFd6U3NR?oc=5",
+          "source": "Business Standard",
+          "when": "Wed, 14 Oct 2026 07:00:00 GMT"
         }
       ],
-      "current": 166950.0,
-      "pnl": 18648.0,
-      "pnl_pct": 12.57,
-      "day_pnl": -462.0,
-      "day_pct": -0.28
+      "current": 167349.0,
+      "pnl": 19047.0,
+      "pnl_pct": 12.84,
+      "day_pnl": 399.0,
+      "day_pct": 0.24
     },
     {
       "name": "Singer India",
@@ -387,41 +406,41 @@
       "qty": 900,
       "avg": 91.03,
       "ltp": 74.0,
-      "prev_close": 88.27,
+      "prev_close": 86.76,
       "invested": 81927.0,
       "news": [
-        {
-          "title": "Retail Holdings confirms no encumbrance on Singer India shares - scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUWpBRHQ3TDFmelRVMlptWVdpcVpZdTZ3QUl6YlNJVzFROXNnUjlUcTdtOU9zRC1yRnJ0YnJ2eWo4c3RjRndkam83cDlNeU05VkdrdGtSWUZBOV9TbWxuOXMtUS0xNE5YdHlyZ2Z6ZFpqbndWdnBidzNRUjg1Xzd4aUV6QWRSRXE3NGZwUVBwSzhBeUUyekJ2N1FCZVdHWmxWd21OU20yZFlvYUpxZFdLcnBtSC1aY1lELURV?oc=5",
-          "source": "scanx.trade",
-          "when": "Wed, 04 Nov 2026 00:57:31 GMT"
-        },
         {
           "title": "SINGERIND Stock Price and Chart \u2014 NSE:SINGERIND - TradingView",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GeEllMFc4Y1ctY0lHV3p5QlB2TXdSUHhqSDQzMDVabXhYRk5EX096Q1FLSlBTMG84QmtTejZ5eTlQZ0phaEJNZHpmcFJSVnpQaDBGdHpIbG1rY1h0Q05j?oc=5",
           "source": "TradingView",
-          "when": "Thu, 29 Oct 2026 14:25:16 GMT"
+          "when": "Thu, 29 Oct 2026 07:00:00 GMT"
         },
         {
           "title": "Singer India Ltd. Share Price Today - Singer India Ltd. Stock Price Live NSE/BSE - CNBC TV18",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYVVzaHpkTGlaWnhaZ2ktV2lWa1ROQnNQWHdUcC02YjBpNHFEWTAxTXh4aUFsaHZWaHRyeE1sQnJzSkswX0dhbGExVjFKYVFoZFB1cXhBMW44OF91NGt2ZTZMM2k5QklQRGo2eG1tbXdSV1ZZc3JJaGJWRlhGWHBoWQ?oc=5",
           "source": "CNBC TV18",
           "when": "Fri, 30 Oct 2026 10:00:00 GMT"
+        },
+        {
+          "title": "Singer India lists on NSE, slumps 7.9% at \u20b970.43 - BusinessLine",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXRnT2pWYXFnc0dlMkZVenNMV3lwcEVQeHFDeHR2UV9tZGhLVWR2eHF5dXZxS3dZaEhyLW1YbGlJUlRsT2l0RHRDMEQ1SF9tM0YzaG0wUDExeG5teGlKUkpDM25ndGc0VURycmVEMjFLSml2UGQ4UFpTQVJSXzc3eG1QOXhxcldCOC0tSE9DR0xiRFFlenNCTUp1QW9qWHAtN3FLUjhhNkwzYXNL0gGzAUFVX3lxTFBUd0xQMHZiSUZpQlhLbXdObm5Cd3NtT3kxQXN6dmJ0MUpKRDZCVUJSbkZUQ2lDRVpOMDBtNGpPdUZQSUxwUTRXMGUtRGhQN1Uxb3duOGJTbExXeXFsRk1qM0dRZkphaDBsTDU1YWJQd0otV3ppVmpLWmtCU250QlRETjR2NXVoNzIzNGlPTUpoTWxzRWozNnBSSndheGM2TDYwUHJZUlBuTGJzcWxURER2UEdz?oc=5",
+          "source": "BusinessLine",
+          "when": "Thu, 19 Mar 2026 07:00:00 GMT"
         }
       ],
       "current": 66600.0,
       "pnl": -15327.0,
       "pnl_pct": -18.71,
-      "day_pnl": -12843.0,
-      "day_pct": -16.17
+      "day_pnl": -11484.0,
+      "day_pct": -14.71
     },
     {
       "name": "Lokesh Machines",
       "symbol": "LOKESHMACH.NS",
       "qty": 100,
       "avg": 423.68,
-      "ltp": 369.05,
-      "prev_close": 387.6,
+      "ltp": 409.3,
+      "prev_close": 369.05,
       "invested": 42368.0,
       "news": [
         {
@@ -443,53 +462,53 @@
           "when": "Thu, 16 Jul 2026 07:00:00 GMT"
         }
       ],
-      "current": 36905.0,
-      "pnl": -5463.0,
-      "pnl_pct": -12.89,
-      "day_pnl": -1855.0,
-      "day_pct": -4.79
+      "current": 40930.0,
+      "pnl": -1438.0,
+      "pnl_pct": -3.39,
+      "day_pnl": 4025.0,
+      "day_pct": 10.91
     },
     {
       "name": "Sterlite Technologies",
       "symbol": "STLTECH.NS",
       "qty": 500,
       "avg": 71.29,
-      "ltp": 719.9,
-      "prev_close": 757.75,
+      "ltp": 670.95,
+      "prev_close": 719.9,
       "invested": 35645.0,
       "news": [
         {
-          "title": "Sterlite, HFCL, MTAR Technologies shares hit lower circuits of 5% each; other AI stocks tumble - Business Today",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeWxNUDBWZ0JxTzRtWlpVV1JCMm1pZDRpVkxZc1pTbnNMaWRQbjhscF9mNWpGVEZOWUkzemN0MGd0SVYtOE1nbUVJX1J6dUpmd1FySUJDaEk1b1hqYVlkd2ppVkdBbE9XRkJYWUYybG9GSkRQc1pvSGJvYTYzc0loYV80RFJiM3BZN0pYQzJFWVNrVGJvakpKUXJnbGtoejRkQ1l4Z21rQzhxcVVPbUg1ZkNKdjlyMl9PaWhaTnBaUzdZVkh2TWRSUktVUkU0Y3VMMnA0cU5naU5MTmJldi1ZS0otYVNLR3lIUTVjR0pRc9IB9AFBVV95cUxQbmFCRlIyeEk2Z1ZqbHFTZEFsWEQya0RxMWpiNC1vemQxNklkeTVJM0FiWENtY21JTm9uV29Gejd0RGZycU53ZldkRjU2UzRwenhvaGVzcDRJb3pYSXpWNTYzLTR4YjQzRGxqRGlJSmlBWWI0OXRTTzUtRjhaOTJFV2dzNDZLLW5zaVhqejEwaXBzcVRqYU9JMHl1Umw0anVoRkRYUDl4eklCcDFqcEd1a21KZ3pITVRKdDR5dTEtbjJKbEhNUF8zeENsR2NuRnNFem1BdUpKdmE5cGc2a01ybW96ZFpGM09ya1VsZWlYQWM1UlY2?oc=5",
+          "title": "Sterlite Technologies Share Price - Live NSE: STLTECH Stock Price & Chart - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5cC12NHhpNWJLcDBKUk84WEpmaG80cTlwczdFWDFwQnpNVUFjZU5Qa2lTckIwNlYycU1GVDdnM1BEQ1FyeTlfcGlrOTlKTHlCWmNMN3ptWURpYWNGb0x2T3lkamxVaWdULWFabzhvdlRXUQ?oc=5",
+          "source": "Upstox",
+          "when": "Sat, 07 Nov 2026 03:39:29 GMT"
+        },
+        {
+          "title": "Sterlite Technologies, MTAR Technologies shares fall 5% each; here's why - Business Today",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaXZCV3VHakRSbTlBWWZpQ3pKSkk2VVM4dXpjR3VTUS01WUlBeGkxcjhReGVicG5CU0xjT3AyaTdWa2pTOWNYbDFwMjl4eWFsSFYzbTZaeGRKUTJPQjlwUFN4b1kyTHU5UVpFTXBJLU9wZGZiVE9HRVRzNlUtbWRheV9rWXBCRVQ3VzRoaG5GdE5WSmRLcHdpb3QybVo3bEVYbXpqZ0c3MmRHS3pkbGxuR25qSDlxM3JtTFlybVN5aEJVbU95V1RkVWJJdm5BTUE2MUHSAdcBQVVfeXFMT01tRHAwYzJ2MlZCSDd3NXJHRDd4Yno5NHZwTUlCN05TLXhBNlZfZEJFM3pPeXRCdFVlVDlYeEFDMDBCTk5MWjFwS2ZQWm9lNE0yMmxISW9fQ0k2TmplYjA0VzkwdDQtWTZ1bTZ0N3VSRUozbm1Uc0VRd3QzRm9Ka1Z3dDhfRmJKRGlhU0lhZTVBcTdMTzY3S2xwOWduX2JEN19DVDdUeGRjSTZhU2VPZTd1YUZnRkFTbXNPSTYwNy01cFhTTk5LejlZV21qVWYzZVBkYmFPUDQ?oc=5",
           "source": "Business Today",
-          "when": "Fri, 06 Nov 2026 09:07:55 GMT"
+          "when": "Wed, 04 Nov 2026 06:41:28 GMT"
         },
         {
-          "title": "AI selloff hits India too: TD Power, HFCL, Sterlite, other power capex-linked stocks crash up to 15% - The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQX25semxiaE9pYjBDT29WcUFVSnhpQXNzNDRtQzJXdTNNOVJmNURySzM0TFVGS1RUOWJwc25NX2VQb2l2YUN2Z0hWcFhCZGlicW04Zks1NTRrS0w3X01KS1A4NXdIVkRoNHU3ZHhtcmg3SmNYYmQwenY2NE5QTUFJZXhIN0VBZXM1TkdIdUhEMjVnQTRvdWl4Sk15LUhSR1NMRU5ldXFDZDQzcjRLajA0Q1p2Z0NyR3ZNSmdvbmgtQXppREhZaGdiSzdVYjduQ0plUHFLTG9vRkdrV0RhRzZHV3BrX1Y0LS1RMVVob0pQaEFsV1JzRW9pQzdrT29Ld9IBgwJBVV95cUxNUE9LQldtOGVVOEM3T0c2b2ZBSWJPLURSRE1LUkpNdzZGcF8wTnlXMjJNRmUwUVVvVE40U2FKTEJxdVhjZDRxemJrRDg0UzZ3RGFNNi0tbFRMSWh3OTMza1RlYkFuTV9EN3ZlbGYwYS1NbDIzUS1qMmNGTkV6X0RfWDNESEhNM24ydV8yR2Znb2NNd2Z2UWhEU05DcXBOSG9CSlE4bjRLakYyYmllaWdRTVJsQ0YycmF6OV9xWmdIOG5CM2RYZ3l5OC1UTWMwSmU0VGVzQl9EM21zX1czVlZMQU9jN19hOEhXbkVnMm9LUTZjbnRiN3RBNUZjXzFFazJTM0pF?oc=5",
-          "source": "The Economic Times",
-          "when": "Fri, 06 Nov 2026 05:11:37 GMT"
-        },
-        {
-          "title": "HFCL, MTAR Technologies, Sterlite Tech shares hit 5% lower circuits - Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSzY2b01XNWtwWE8tcVZqeHMtbXVWdjhEMUN4ZDJQbzRYb3RHTDUzNTdQTmZrX2V4YTV3WldBdU1UMVRXbXY4R1Jlcm1YY1pFUDV5Y1hFTVRaM1lfdks0TkVWaVUtMl9rYnAwOHZBeFpmYnBYc2pUcDRhRnFrai1MQ0MzZGxLYXpSWjhucXpPc2lTN1RiRF9UUUpyWG5RN3kwbVU4Wno1TEh2QTFjVWFvNVNpcElyaXY2MUttclU4RU9OT0FTRUlvZW16Y9IB0AFBVV95cUxNTXkxNGVKVnEtZjVEU3JKaERhck1SZHhvNW9yUHpLdWVSRGlpZGFKRDQzLVk5QUhkSkxvYjdab2tWTnBxLXFhNlZudkpDQ1pDZ0k5cVRjQ1QzQU9tUUprNmxNbERPZ3lzS2ZuelR6Z3U1RDlXMVVpV29LRmZvbVdoX3JZY3ZaZnhQcEthd3FDd1lFVnAzZE5iVU9tX0ZvZFljOUsxcXg1SVZLSXR3UGJkUnkzMDg5MEs5UktEelBTSWw4YTVEUUJnZXlEYUNzVERB?oc=5",
-          "source": "Business Standard",
-          "when": "Mon, 02 Nov 2026 07:52:43 GMT"
+          "title": "Why Sterlite Technologies shares hit 5% lower circuit today? Down 9% in 3 days - What's driving the crash? Buy or sell? - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOal82dkVPVWQ3QUVBc1gtZGJsRlh5NGpJOEpXVjhacVBQSUNVc1owMTJZbTk5cTVDUjR1UTlhTVZ1Q29zS1UteS1LdkRJdXhQckM2NzJvWXpHOXdNZWJLajV1VEFZZFFnNHZScVhjaGhqczJ6bC1tUEVwamxyQ0V3OEx0YzlqMzFSZEw3Sm1waENJZVRFMUNHNEFDVlVhVXJsN21fWGNmeFZQd2hkZmE0X3pQbndBN1ZPVVAxQ1FwV29PRHljTmJ5ekJORzY1c2tYcHV0OHNSUmVZbmJWdWhjakszUy1lMEV0d2VEN2RUVFh0UWpRNVk5ZldFbVc5c2x5bEVsc1E3Tzh0SUJjOUHSAZMCQVVfeXFMTnJoNUptRHowbVRwekFKMjZaQ2lGWi15WnMzNXYzU0pPVlRxaW1McW1NeFZLRWxmR25LWGlyOHQzb2hZaWhVWVRUY1paWnNqV1JxVnhLb2pBUVhSeG9laHVIN213eGtHNW9TTVFqN1ZwUDBRQW95OTFUbkpKckNYa2g1RDhCLWxQcG1PellFMDZETmhOTmJSNWFsazc2cS1ZQU9BblZPQnRTLW9Bc3NUT1dLXzUyN1lkNjJLUzVPQklLUHB5Ri1aTU53Ti12OXBhVTlzUkt1NVEwam5MUUtTWGp0NzlVM0xVNEJaeEY3QmJtUzIxRXhKd3hwS3VvMG9paXhKekpldUhremtFaksxcTRfcTg?oc=5",
+          "source": "Livemint",
+          "when": "Fri, 30 Oct 2026 07:00:00 GMT"
         }
       ],
-      "current": 359950.0,
-      "pnl": 324305.0,
-      "pnl_pct": 909.82,
-      "day_pnl": -18925.0,
-      "day_pct": -5.0
+      "current": 335475.0,
+      "pnl": 299830.0,
+      "pnl_pct": 841.16,
+      "day_pnl": -24475.0,
+      "day_pct": -6.8
     },
     {
       "name": "Zaggle Prepaid Ocean",
       "symbol": "ZAGGLE.NS",
       "qty": 200,
       "avg": 365.11,
-      "ltp": 165.24,
-      "prev_close": 167.7,
+      "ltp": 167.06,
+      "prev_close": 165.24,
       "invested": 73022.0,
       "news": [
         {
@@ -500,7 +519,7 @@
         },
         {
           "title": "Zaggle Prepaid shares rally 17% in three sessions after Vijay Kedia buys stake - Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSldYbVNocGNGTnY3UGV4X3ViakVRdjdjUEVFNkJXc1haTHgtdmdBUXNXcGJSa1k4ajQyY1dsdC05WUpsOHFjbXpXd21JUmlUbHZMeTVOSWtWaFpjNkVlYmZkTzlaZnJGRDhtZGMzUkNMSXR0R3Y1RThidDVDTnppcGZaNklTSWREblN1VHMtYWloYm9xdDFnNUlXT0V3TElvWXRtdFFjMlVSeTJvSDB4U2RlMmhPOEV6dm93RkRtWUY5Zmh1QjQwWlFJYjNYN3l5Ykk5ZlVfcnQtdw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSldYbVNocGNGTnY3UGV4X3ViakVRdjdjUEVFNkJXc1haTHgtdmdBUXNXcGJSa1k4ajQyY1dsdC05WUpsOHFjbXpXd21JUmlUbHZMeTVOSWtWaFpjNkVlYmZkTzlaZnJGRDhtZGMzUkNMSXR0R3Y1RThidDVDTnppcGZaNklTSWREblN1VHMtYWloYm9xdDFnNUlXT0V3TElvWXRtdFFjMlVSeTJvSDB4U2RlMmhPOEV6dm93RkRtWUY5Zmh1QjQwWlFJYjNYN3l5Ykk5ZlVfcnQtd9IB3wFBVV95cUxQSzFsTnMzS2VBMWtSSXZFbVhhRjR1TTUyYVh4WnltcGw2WmVtcG9DMjRPVkVaQ3llcG1uM0Ffa0VaMVhJdVM2MVFObmJJVTNZOG4yRUNDdDRnVXhKUmY3Y3dZaXMzZEZuaHpRWlFKQWNQSWlucllJLWJvTy1HTlpfUlBsMzQzUUdCSVFEOEQ2UFhVRnpJYWFfaXh4VTVHb25JT0Z4ellpMlVuNmtyWmRwZ282TzlPVmxZd1RBc011WnRHcXB6OEpHVmMyeVk0bmxsMTJIT0ZNalJieUhpUDJZ?oc=5",
           "source": "Moneycontrol.com",
           "when": "Thu, 20 Aug 2026 07:00:00 GMT"
         },
@@ -511,19 +530,19 @@
           "when": "Sun, 30 Aug 2026 11:57:56 GMT"
         }
       ],
-      "current": 33048.0,
-      "pnl": -39974.0,
-      "pnl_pct": -54.74,
-      "day_pnl": -492.0,
-      "day_pct": -1.47
+      "current": 33412.0,
+      "pnl": -39610.0,
+      "pnl_pct": -54.24,
+      "day_pnl": 364.0,
+      "day_pct": 1.1
     },
     {
       "name": "Dish TV India",
       "symbol": "DISHTV.NS",
       "qty": 4750,
       "avg": 14.45,
-      "ltp": 1.99,
-      "prev_close": 1.97,
+      "ltp": 2.08,
+      "prev_close": 1.99,
       "invested": 68637.5,
       "news": [
         {
@@ -533,31 +552,31 @@
           "when": "Sun, 30 Aug 2026 04:10:12 GMT"
         },
         {
+          "title": "REG - Dish TV India Ltd - 1st Quarter Results - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcUhfU0hNd3lqNzVmeTFDdjJseno2Rkh5ZlNPc2piRG12d1I4SkQ5U2M4X0pzN2FIN0ZFdUFjamRadmJoRUxVUm9hdjZoR2p5am56alhUbFRWUnRsR2VVSFRYdm96QzdIdnJ5eE9JejIwS3A4c2pXNWJlYjJMbjhWdFdBSUxXa0g5WVR1LUhIVW11SUNYR1JfbDN3eTh3U2RKV0swb1JYaGcxanYzNXNaQlFmSzQ3M0J1?oc=5",
+          "source": "TradingView",
+          "when": "Tue, 04 Aug 2026 07:00:00 GMT"
+        },
+        {
           "title": "Dish TV Q1 Results: Net loss widens to Rs 286 crore on fall in subscription revenue - The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPd3M3OTNJNFpYN3BuYWJ1TGRkVVNtTFdkTVZzSS1vUDhSY3B5QTk0TFBMZG5rTzljS042blFpdHE3OURhMmkxNHlHWXNfSzlna1B5Y1hNNS15TGk2eno4V0xUbUtxSnlEUUsyNkxtWlM2VGtJd29VWkdyaHgyUkE4UzcyZE5zazlKaFMzM0tkMk40S0ZOT2d5cEtlalJ6TjE3Z1NJRllKOGVpd1N5bUVwa29kSDliT000WlE0YTVzTTZOX0c1V2Z6Q0FvUzdob2I2Qm5obkxFOVNGQXRtNEx5Q2sxZ3NyM1BtX1paWmpTMXVHd9IB9wFBVV95cUxPSHFQblFCeDVPNDNsbGJxdTEyQ2lndzQ3eGV4THVzOVRvWmlfUlV4eGhiRzF5NUlzby1oOVVSYV9MUl9RVFJ1TnUwellESGNoVWZyX3BfTm84U1B6ZG9IYUdpZ0lkXzQyMEpKUUEyYTFnN0pLbzRKZ29aNk9PSVYzVzMtRnF0MTViNjFZeU9ZOXFGMFpWNFZQdTMzWFMxMWFqTWV1enVaem9nS0JwNllSMkd4aG5ScDA4UnlTS1REN3lYcl9zNnYxeU11YTZQbjMyNDhYUmx1b2NkNk1MNE1ET094X01xTTdLUFhmUmIxQ3RFNkpTZkVr?oc=5",
           "source": "The Economic Times",
           "when": "Tue, 11 Aug 2026 07:00:00 GMT"
-        },
-        {
-          "title": "Dish TV promoter group confirms no new encumbrances on shares - scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ2Rsd3FfSkhEbGVIOUdZcjI5Tk5FSVNrZkVqZEppYjdLY1F6M3pnMzZHZUJTekwzaUVESVF0V2p0eHRhOGlzVUFEZmtMOGNzQkFLWWpZQXlqTWZpVlRyVEFrdDBSZXZTTzdISHdveGdiMnJIUEJ1YVg3RmxTN2YwWUQwX3V2NzlnVUJxNVNJaHo0WXBSbGkzVGNOY1JodlZHTXpqc1h4V2MxdC10N2RnQ1FjcnNqbWtJckE?oc=5",
-          "source": "scanx.trade",
-          "when": "Wed, 24 Jun 2026 07:00:00 GMT"
         }
       ],
-      "current": 9452.5,
-      "pnl": -59185.0,
-      "pnl_pct": -86.23,
-      "day_pnl": 95.0,
-      "day_pct": 1.02
+      "current": 9880.0,
+      "pnl": -58757.5,
+      "pnl_pct": -85.61,
+      "day_pnl": 427.5,
+      "day_pct": 4.52
     },
     {
       "name": "Ashoka Buildcon",
       "symbol": "ASHOKA.NS",
       "qty": 945,
       "avg": 224.49,
-      "ltp": 102.06,
-      "prev_close": 106.95,
+      "ltp": 102.94,
+      "prev_close": 102.06,
       "invested": 212143.05,
       "news": [
         {
@@ -567,31 +586,31 @@
           "when": "Fri, 06 Nov 2026 01:45:24 GMT"
         },
         {
-          "title": "Ashoka Buildcon, Texmaco Rail, Jash Engineering shares in focus on order win updates - Business Today",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZnVITmVZYklJa19YUS1pOXlTMGREOWl3RDBDWExRLUkwcjg2YUZBWEhtcG5XdFVPMWFkOEVzd3hDSERhSEJHR013UWFtcmJXNnJPeklCNC1tZnk0dWhJd0FHc3BZcU1HTjdSOVgzTHlZQ1M2R1JKOENtcXB2OFUtQ0JRNTlEb0wtaDZucGx4MTNZYUhRT3FQOHBrc2loanJqZk5sT2s5NFpfcjBoakRmMk1UNDcxc2lFS1FBSXpZb3ZxbHFfMEh4THl3czBaa2wwb0JsTG03WnJyVjBHNVpjWWlBb03SAeoBQVVfeXFMUGlNVmpQQ1VTN0l4T054NWRRT0REZElZM2VrR1F4bVZqR3NSeTh3X1FWdXZBSDlZcFlJdlB3QU41S0UtTENtbGhZRk40ZGJldnpGWjk2NEhRVG5VWHhyb2pPNzl5T2I5ZzNPOUlNZE9GSTVpMVVOc182VEt4bldrMS1iNl9GQngyXzhGaHdkZkhBdUlVeVYyS2YtbHNKQUcyWjBlV21lRFNqNmlMOGZ5ZlV6RV9yUE9UeWRKOWp6dkFMQXVEU3BRNVRJWUlnWHRzVWlVUFNxZWhDbk90WktxejlvSXFNdVhDOFl3?oc=5",
-          "source": "Business Today",
-          "when": "Fri, 06 Nov 2026 03:26:12 GMT"
+          "title": "Ashoka Buildcon (NSEI:ASHOKA) Stock Forecast & Analyst Predictions - Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNnZoOWlvdmdYZ1N6ZU5nNWtGTzdtNWFXRWdBekV1LXVzSjJzMTJuMlVmcU5raWo1Q0VnRTRlN0k4anZRdnVFV20ydEFvWXRiN1JMUURlblFPM19EbmprcjkycFpDYmpORW9FcDJDM0NGWEZhUTNyVVVBUVFLNFNGT2JIbW9vNkJMRXRuMDVTdw?oc=5",
+          "source": "Simply Wall St",
+          "when": "Fri, 06 Nov 2026 08:00:00 GMT"
         },
         {
-          "title": "What Investors Got Wrong About Ashoka Buildcon Before The Drop - Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONXM2T1BJalpzZUJwZGg5d3plY28wTjZBOXBoay1mamc1cjRQOWtFNUdqTS1VTVRmeEwwNU1zRFZyYThBNUtJYmtDY2pESGU3d3JnWS1CYkZxYkRSNmZ1RlM3Y1hMTEV1VmRkdU1BNFlkQS1UR21OeEpGUTJ5am16ZDRJV1JuaWU5VzhFZmJIcU1mazZ1aTlIa25zTFp6VmZlal9sdV9mUDBJYmpRcC12ckFHcjVIQlNvOHVnLTk3cWtiTktSeExjY3FUYzNOZkNWdDZKU2I5OUFiNDJxbGfSAeMBQVVfeXFMUEtFcmwwOVktRnROd3F3c0JJd0NpRTBLbG1VV3p3MC1TeXpoSFhvNXVfYzN5WUZvUmxVZUFPV2NPY3FZaWhHd2JRY1dkLXhqRlJnazJjUWhHczc4cDZTclBqZDYybzM1MlhHNDZfYVFncDlJZDdCdi1GUHlVeUR3VUNIU1c1VjlQMkhhOEZ0RF9rV29qZlZ6YjktZ3JjRHl0SnRSbUg0ajNtQVJOWW5rX2hiZlBPd0g4TjU1dVMxZ3ZCSW5NVzdxZXUwdV83QjdQYUw2U3dnbWI4MmpqVTdyYmhXRm8?oc=5",
-          "source": "Simply Wall St",
-          "when": "Fri, 06 Nov 2026 01:30:54 GMT"
+          "title": "Ashoka Buildcon Achieves COD For 45 Km NHAI Road; Shares Rise 4% - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzlHZ1JXT1BuZ3ZNdG44dDNuNDFkMm5tMVZwSldrWW9wLURBbGtTWk5kQXRwV1NFa0VjVEs5S2JaUlpiRGlQRTNab3NGS0ZGZkFUNThaWnM4ZHpBRl9sNXc5dHJZSXZHX0VoVnNtZ0lUekdUem5OWFJhLWNiME9QdFM2RWV4WEwydmtFc3d6dHR3QXM?oc=5",
+          "source": "HDFC Sky",
+          "when": "Mon, 12 Oct 2026 07:00:00 GMT"
         }
       ],
-      "current": 96446.7,
-      "pnl": -115696.35,
-      "pnl_pct": -54.54,
-      "day_pnl": -4621.05,
-      "day_pct": -4.57
+      "current": 97278.3,
+      "pnl": -114864.75,
+      "pnl_pct": -54.14,
+      "day_pnl": 831.6,
+      "day_pct": 0.86
     },
     {
       "name": "DAM Capital Advisors",
       "symbol": "DAMCAPITAL.NS",
       "qty": 1098,
       "avg": 227.606,
-      "ltp": 139.47,
-      "prev_close": 140.66,
+      "ltp": 140.84,
+      "prev_close": 139.47,
       "invested": 249911.39,
       "news": [
         {
@@ -613,32 +632,32 @@
           "when": "Sat, 26 Sep 2026 23:57:39 GMT"
         }
       ],
-      "current": 153138.06,
-      "pnl": -96773.33,
-      "pnl_pct": -38.72,
-      "day_pnl": -1306.62,
-      "day_pct": -0.85
+      "current": 154642.32,
+      "pnl": -95269.07,
+      "pnl_pct": -38.12,
+      "day_pnl": 1504.26,
+      "day_pct": 0.98
     },
     {
       "name": "PG Electroplast",
       "symbol": "PGEL.NS",
       "qty": 160,
       "avg": 744.0,
-      "ltp": 546.15,
-      "prev_close": 549.15,
+      "ltp": 564.0,
+      "prev_close": 546.15,
       "invested": 119040.0,
       "news": [
-        {
-          "title": "PG Electroplast (NSEI:PGEL) Stock Forecast & Analyst Predictions - Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZDl0Z2JKS2U3c2dSdjdWZkl2VlEwZTUwRTBNakVDTUJOcnJ0WDU0MEVhVkR3QTR5ckdYcldpeWdPZ1lrcFF2MV96SUZYWTYxR3hpcDJYdUhUWUhYSnhVRkduRnUySDFCRVp6WTNlSWkweTN0LUljb2xEb2pVSlFaeQ?oc=5",
-          "source": "Simply Wall St",
-          "when": "Mon, 02 Nov 2026 08:00:00 GMT"
-        },
         {
           "title": "Stock Radar: PG Electroplast holds 20-DMA support; breakout above Rs 630 may trigger fresh upside - The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTkJmNkhiT3IwVjZUSFN6al9wcHFzSkR0ZUN1S3hlMDZPdUF4VG5TUXhDc0JMdlhKWk1QanJaNlJTNkFyeVA3dFhKQjlXOGgwbWpINVNyN19RbHhzREVGY2xVNFREZE4tWjBFTWYyUEFQOXQ4QWlKOXZVWmpBTEJ6N09sY3FMazNlUkRybG1ieldmMzRnMkVZUmZkWVc4ZkdkQ0dqcF9wcXZGY1VhRzdXY0hBckl4QVJLQko0dlBtRlpVcXFMWG1wSC1TNFlocjdESDBia1lOYjBELVRaU21maTNCeUJGN0F2NmdWeklsNVpkMkpBVTlJdHJmM0xZUdIBgwJBVV95cUxNSGN2YUNHSHRUWWNRaFVZbTZuT2ljVDBVNUhiLWUtNENpRVBfVEZadk56MWZmc0dKYXZkVjZ1ZkRIVzMzTndGWWlDZDBtVHhZSm9oQ1paMTRZZk5QbTRRZ0l2ZVBCeGVKdERNLXpyUWp2d2VadGtiN25neWZfbWFoVkpnSnNPSU0yc0RNMy1kR29TZXhmZzZxSnRjS0ZTTW1nYWR1bHpvWWF3RFpxWjcyUktxSFM0WFhVZDRzV0xucVRlZVJ2TGg5UWhXNmgxU2puWmpTc1dnYi1zTUNCZ0t6cERlZHRhanFoOWhlQVVNaXpjNjNCbWhrZnlSOHlkZ1ppblpz?oc=5",
           "source": "The Economic Times",
           "when": "Mon, 17 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "PG Electroplast (NSEI:PGEL) Stock Forecast & Analyst Predictions - Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZDl0Z2JKS2U3c2dSdjdWZkl2VlEwZTUwRTBNakVDTUJOcnJ0WDU0MEVhVkR3QTR5ckdYcldpeWdPZ1lrcFF2MV96SUZYWTYxR3hpcDJYdUhUWUhYSnhVRkduRnUySDFCRVp6WTNlSWkweTN0LUljb2xEb2pVSlFaeQ?oc=5",
+          "source": "Simply Wall St",
+          "when": "Mon, 02 Nov 2026 08:00:00 GMT"
         },
         {
           "title": "Why did PG Electroplast Shares Fell 13% Today? By Trade Brains - Investing.com India",
@@ -647,19 +666,19 @@
           "when": "Mon, 09 Mar 2026 07:00:00 GMT"
         }
       ],
-      "current": 87384.0,
-      "pnl": -31656.0,
-      "pnl_pct": -26.59,
-      "day_pnl": -480.0,
-      "day_pct": -0.55
+      "current": 90240.0,
+      "pnl": -28800.0,
+      "pnl_pct": -24.19,
+      "day_pnl": 2856.0,
+      "day_pct": 3.27
     },
     {
       "name": "Nila Spaces",
       "symbol": "NILASPACES.NS",
       "qty": 2320,
       "avg": 8.38,
-      "ltp": 10.0,
-      "prev_close": 10.06,
+      "ltp": 9.93,
+      "prev_close": 10.0,
       "invested": 19441.6,
       "news": [
         {
@@ -681,19 +700,19 @@
           "when": "Sat, 26 Sep 2026 07:00:00 GMT"
         }
       ],
-      "current": 23200.0,
-      "pnl": 3758.4,
-      "pnl_pct": 19.33,
-      "day_pnl": -139.2,
-      "day_pct": -0.6
+      "current": 23037.6,
+      "pnl": 3596.0,
+      "pnl_pct": 18.5,
+      "day_pnl": -162.4,
+      "day_pct": -0.7
     },
     {
       "name": "Himadri Speciality Chem",
       "symbol": "HSCL.NS",
       "qty": 200,
       "avg": 495.42,
-      "ltp": 568.15,
-      "prev_close": 568.55,
+      "ltp": 573.65,
+      "prev_close": 568.15,
       "invested": 99084.0,
       "news": [
         {
@@ -715,19 +734,19 @@
           "when": "Thu, 05 Nov 2026 04:48:42 GMT"
         }
       ],
-      "current": 113630.0,
-      "pnl": 14546.0,
-      "pnl_pct": 14.68,
-      "day_pnl": -80.0,
-      "day_pct": -0.07
+      "current": 114730.0,
+      "pnl": 15646.0,
+      "pnl_pct": 15.79,
+      "day_pnl": 1100.0,
+      "day_pct": 0.97
     },
     {
       "name": "Bajaj Healthcare",
       "symbol": "BAJAJHCARE.NS",
       "qty": 100,
       "avg": 690.52,
-      "ltp": 310.7,
-      "prev_close": 320.05,
+      "ltp": 315.25,
+      "prev_close": 310.7,
       "invested": 69052.0,
       "news": [
         {
@@ -749,27 +768,21 @@
           "when": "Mon, 29 Jun 2026 07:00:00 GMT"
         }
       ],
-      "current": 31070.0,
-      "pnl": -37982.0,
-      "pnl_pct": -55.0,
-      "day_pnl": -935.0,
-      "day_pct": -2.92
+      "current": 31525.0,
+      "pnl": -37527.0,
+      "pnl_pct": -54.35,
+      "day_pnl": 455.0,
+      "day_pct": 1.46
     },
     {
       "name": "Shree Renuka Sugars",
       "symbol": "RENUKA.NS",
       "qty": 1500,
       "avg": 54.15,
-      "ltp": 18.19,
-      "prev_close": 18.62,
+      "ltp": 18.4,
+      "prev_close": 18.19,
       "invested": 81225.0,
       "news": [
-        {
-          "title": "Shree Renuka Sugars Q1FY27 net loss narrows to \u20b92,515 mn on revenue growth - scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVzJ6NENaX1hRT1hwWW1mQ09pcDFkRm5wY2FkekI3ZVZZV2hIV2pwRzNhRjdYbXF2YW5qTHo5eTBGR1E0T1FSYk5CU3dCaHRrWUJZdE5vM2FnVGlLRmpkVVl4UDJJUHBwVVlQOGNKLU52V3BhUkNGanJ4LVJqSXZnMVNCRTF6Zjh6OURVYlZWTDdHZllUbUlBNm9HYm9nUHpaalVXTHlFd0hoQ2p3al9NNHc2eGxyZw?oc=5",
-          "source": "scanx.trade",
-          "when": "Wed, 04 Nov 2026 02:38:32 GMT"
-        },
         {
           "title": "Better Sugar Stock: Dwarikesh Sugar Industries vs Shree Renuka Sugars - Equitymaster",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaVVWckdZTEZjN0l0TVVWZC1LRnY4ZUcwdUhOTkJSQ3pDRS05VmEtRnFINE9Nak5fSW1lWnJ2czA1dkYxSU5LZTQ5Qjk1anpMUlpDdHEtbEFmN2pBLUYtcEpDbzRKUzk1RWlqQUdrMTJHU0k2UkJjcmo1czBqT2UyT1JYR3hmeW4xQUpYRGJzbEQ0ZHBnRk5LV2ZUc09USFdqSjN1bW10OE1nejBQNTUtTWxhSXQwZWhidXh5WDdtVGl6ZHlVdWdrTUVVa3BoWEVobEZxSA?oc=5",
@@ -781,21 +794,27 @@
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbl9MRXV0S2pMUW1LZ3pvVXZoWjJrQTBLaEotdnhrSUJVSGdXWkNvYV9GZWxyNGU1bHNFRHFJY2I2Q29jZm9CRWdQa3A3MDIxQkUtcmpnVWRUTE1OMzYtTEtldGotVExILU43QlJXRVV4TGNlbjZZcDcyS0dHdHpCdUJWVnRjM3YxWTdDUDJMcFh4U1V2QXIybGhBQ2hHLTg4RFJ3WVRaWXpUS2JlWXVIc0dLMHQ2S3Y1M3NhNTExRVFUYnY2cXFZVXY5dVE1UUhteGM3YldQSksxc3FSTF9yajVrc0xLUUJQTFFMbUJQVWs?oc=5",
           "source": "Upstox",
           "when": "Mon, 24 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "ICICI Bank sells 2.17% stake in Shree Renuka Sugars - scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOclZrTlAtdFRaSU1PUkpZNmQ5cFNjY1AwR0NOdjBDZXhveDM5N1ctdFgxMm5ERk1mcm9oakQtaTNxbVNnMVlKNFFHb0hyeEVuVm5hRUY1dTJfeG5oYV9xeWo3QmJXbmd6b0ZYdTlseVBBZFVZM2pJQm04Wlo0ZUg5Xy0yNUZYME1zNG00VDQ5OGJ6SFFhckQ0QTR0UW01d0xjR3l0NEFIVQ?oc=5",
+          "source": "scanx.trade",
+          "when": "Fri, 21 Aug 2026 07:00:00 GMT"
         }
       ],
-      "current": 27285.0,
-      "pnl": -53940.0,
-      "pnl_pct": -66.41,
-      "day_pnl": -645.0,
-      "day_pct": -2.31
+      "current": 27600.0,
+      "pnl": -53625.0,
+      "pnl_pct": -66.02,
+      "day_pnl": 315.0,
+      "day_pct": 1.15
     },
     {
       "name": "KFin Technologies",
       "symbol": "KFINTECH.NS",
       "qty": 70,
       "avg": 655.89,
-      "ltp": 915.8,
-      "prev_close": 926.4,
+      "ltp": 914.5,
+      "prev_close": 915.8,
       "invested": 45912.3,
       "news": [
         {
@@ -805,23 +824,23 @@
           "when": "Mon, 02 Nov 2026 08:00:00 GMT"
         },
         {
-          "title": "KFin Technologies shares jump 6.6% after healthy Q2 earnings, Jio Platforms IPO allotment; key factors fuelling the stock - Upstox",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQd2o2MEp6a3I1VmhhR0NwdUhRWHlXNUFiS3NXWHFUSjNJOWFVNm1qYURxc3hvc3V3X3MycVhpX21tbHVxamlRNVVNcmxXZ2Rkck8wbGFxRG1HS0t4NFRnY3BtVnI1ZVhSRFgzcTlLSXo5YkY4UFducFh5bEs1bk9CcjIyN3FNNVNjaUlKSlZFUXNrb2VVUGVDMFA3SUFxYURuUVJ6TlVaOFdrb2pIZEgzcFdOZHBCd1NqVks3UjJyRzJORk5LMkhCS3lJWmRUeWVjWDdmUzRjVlVtV3BsMDN4bGxVNUJPM3NjWkJmZFdwZlZDanJfWEFzS3pVRG8ycEpVM2RZczlseFM?oc=5",
-          "source": "Upstox",
-          "when": "Tue, 27 Oct 2026 07:02:57 GMT"
-        },
-        {
           "title": "KFin Technologies shares slip 2% after YoY drop in Q4 profit; Jefferies maintains \u2018buy\u2019, sees 26% upside - The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTXpWTnNFQXlsZk94ZXVZMlhVcDNUMHVJV3lIekhXemtqT19NbzF1RE9fdklFRVRuZHhwSVFLZkdDR1hTS0dtNXQ1UFc2OXBsa01BM2NkYTU1MUxzMlQ0d1hxMmFIaTJyNkxZaVE3cWh3bWpmbDBNQVR3T2RkcF9RanROMUpRRkhBZVZ0Y0VDTGU3Z0xCS1U5Q0dkZzNvSEdPUVZwZGQ0ckxKVDJvVFA2WlVpSExrSU1YT0xRMkNoZEY2T1VBeGVKOGQ3UUlxRGZJM1FpcTVvUWJJV0RjYnk5bG1ucHlnTk1EWE5ZbE9yTjFWa3FIR0hCNFpadzR2ek9KeXfSAYcCQVVfeXFMTVowOXM4U29uTHJoY2tCVUlfVHNsMVg2VTZpU0NodjhoSm0zMTgySC10WndLYVBiUkVYdDVqMFRFMXhpc3JEWTZtOXRyY3ZQeC1RbzB4dW1XZFRoNXFyUXNqQ3h3NXQwWGZEWDJadDlrMGNuUHJBay1DY3BiV3dTRmxGNDE4UjlIS09NeWZ4a0JnTl95Z3B3ZHpyN1RVcnZkeW1UOEJ5UnVLTFN6dklxMnNGMEJ5SXJhaXBabFRCWTNmY3plb0Z5bFFzZUpDOGdmSXAxOG85OFliZGMzRU02bjVNT1ozZXdFTFUwVmFXQXpVd19pMHBwUkJmVTA1Zjk5bHR6TmE3UmM?oc=5",
           "source": "The Economic Times",
           "when": "Thu, 30 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "KFin Technologies block deal: 8.75% equity worth Rs 1,400 crore changes hands; General Atlantic likely... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQQWRLakdVcDJGdmNPZTV2VGwxSVJ5X0RSXzhGQmJnZHBKRHJ1NUVjS3pXcWNseG12RlFyb2ZpT2xRMlNhWWk4Q1hPWXpTQTZDdzZqd1oySDE3R3RhVjRCWnhHanBvRVZHeGo4RlFZSnh3dERkbWd3Y21EUXRuRVFzT1dNa0NLYklwYzc4Q2lJQ1plWUJmWUhQX0VDTlpLTFZFMWFXLW0tdF9pOF92X2hpRDFQUFNxVlV3NW03b3VXLXJjY2RmU1J5YXEzTXp0X2ZQZTBYNVRTTERlSnJCcUYyVXlCUlVJXzF6NzhhaTJsQmMtZC1IM1dpRmdjdnJHTWdY0gGGAkFVX3lxTE1CTmJIM0h5WGM1cU1yTUZmVmtmTjJRZXF4ZVNEUmh1dlZKT19IdkhHZzRSTWs4OVFuVmdnbkFZaTNucWl1WDJMVWxXdTFjNEc1SjA4SEZOSml4cjRDQ0VxaDNPT0xPN1c0dmRHZlROUEdpaG5KcnFJM3N5NXdtTlM3MTVrOVhESVFlWFVqNnlvVTFYdkJLTnk2Sng5VWRoU0FmanUzNU9FV0JkQnBXOEhHWms1TE9UR2tEMmdXZlJ0SndocEtfXzRkd1d5Y3FVR2N6UGh3QVBRNllRTFN6SF85b1lXRWw1TE5OOUVzTU5nRldPVllVcUpNZ1paNG0zQ2twNTBoUEE?oc=5",
+          "source": "Moneycontrol.com",
+          "when": "Thu, 20 Aug 2026 07:00:00 GMT"
         }
       ],
-      "current": 64106.0,
-      "pnl": 18193.7,
-      "pnl_pct": 39.63,
-      "day_pnl": -742.0,
-      "day_pct": -1.14
+      "current": 64015.0,
+      "pnl": 18102.7,
+      "pnl_pct": 39.43,
+      "day_pnl": -91.0,
+      "day_pct": -0.14
     },
     {
       "name": "Salasar Techno Engg",
@@ -829,7 +848,7 @@
       "qty": 1014,
       "avg": 22.75,
       "ltp": 4.2,
-      "prev_close": 4.25,
+      "prev_close": 4.2,
       "invested": 23068.5,
       "news": [
         {
@@ -854,16 +873,16 @@
       "current": 4258.8,
       "pnl": -18809.7,
       "pnl_pct": -81.54,
-      "day_pnl": -50.7,
-      "day_pct": -1.18
+      "day_pnl": 0.0,
+      "day_pct": 0.0
     },
     {
       "name": "Orient Green Power",
       "symbol": "GREENPOWER.NS",
       "qty": 1000,
       "avg": 23.0,
-      "ltp": 8.81,
-      "prev_close": 8.88,
+      "ltp": 9.44,
+      "prev_close": 8.81,
       "invested": 23000.0,
       "news": [
         {
@@ -885,21 +904,27 @@
           "when": "Wed, 09 Sep 2026 07:00:00 GMT"
         }
       ],
-      "current": 8810.0,
-      "pnl": -14190.0,
-      "pnl_pct": -61.7,
-      "day_pnl": -70.0,
-      "day_pct": -0.79
+      "current": 9440.0,
+      "pnl": -13560.0,
+      "pnl_pct": -58.96,
+      "day_pnl": 630.0,
+      "day_pct": 7.15
     },
     {
       "name": "Rail Vikas Nigam",
       "symbol": "RVNL.NS",
       "qty": 175,
       "avg": 505.11,
-      "ltp": 193.34,
-      "prev_close": 193.69,
+      "ltp": 201.7,
+      "prev_close": 193.34,
       "invested": 88394.25,
       "news": [
+        {
+          "title": "Rail Vikas Nigam Ltd. Share Price, Stock Price - NSE/BSE Live - NDTV Profit",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HTlNkaEI1cWNUWEVIRFg1bUNSSjNCZXhzQm95NDg1YWx4VEQzd21pMjhYRnlFLUZ6cTBSM2dEWFZoaVg3WTlBTUVvd3hIdmhSRmZnRUROVnRTWEZ2eFg4V2hJQWlUa0FKTHcxSGtB?oc=5",
+          "source": "NDTV Profit",
+          "when": "Mon, 09 Nov 2026 03:56:51 GMT"
+        },
         {
           "title": "InvestingPro warned of 50% drop in Rail Vikas Nigam shares By Investing.com - Investing.com India",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOckE1OWlsbEJJdUFmcFZ0eG9XSnF5ZzdfU0hOd1ZsRG1oeVVtbFplS2VIcW5rd1BQcW9ickFfcjZlUXVYUmJYNkVzQWhkX2I5aGFlbnFDRFRnUGxTelRRTHBLckliX2RPN1Q5VmhMVGVNc0I3QVBJZjhFNURuY05oTEtYZnN1SVFOVkpWVmZSWEYxUGs5S1otUFktOHhoRHcwdmNQYkdQOTFzMHh0Ykp6aVVwanJTM2My?oc=5",
@@ -911,29 +936,29 @@
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLU1MMGp5VlJIOHNsdFFyRmdKN1kzN2pEbG0xb0VQenFMMDdPWEsyZlctQjFDNjNmVWRMLVFianZGVUdZandzVXlfdk5iVDlLQ05TclVDdlRlYnRReTZuU0hfdmZSeE9YSm9kWHBMSlRwSkx4UmpsR0szRDNEQURaTXdoTnJnb2dERmllcHMzem1rS2JtV3M3WUdQODltcWk3a1ZFUlAyYTVjTlRuSkxDZU90eUVrN19nUklkLUZWdXgxVFdLY0tlUNIBzgFBVV95cUxPSFRNdGtSMHhkUkpxb0RkN3Q4NWhrQVozUVdaVVdHaWI2STFZNi1Bam15SWc1cHRkZmhGUllWc0dKY2h2dVVONnVhbEZQeDFOSkp0UnkzMkg2NnhnYXQ1TEtYbzg4ck13RUlRVzF3VkZKaFdtRVNJN3pzSFY2cUJRVU5xRUxfbHg4RDNGQTdHMjZXNnJIaUZUWFFQMFhjSjEzckZHLUw3cTdxaGtCMGNiRzNTYk5Jc0dBQmtwZmgwZmxXREJ4QjBYbzR1MHBnQQ?oc=5",
           "source": "Moneycontrol.com",
           "when": "Mon, 07 Sep 2026 07:00:00 GMT"
-        },
-        {
-          "title": "Rail Vikas Nigam shares to be in focus on Tuesday as company secures \u20b9221 crore order - Livemint",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMVVHZDNVRV96YnB3X3RiZnpoOGlvM1hrT01VZTFQMklDNUhOQWxGSi16X1FCMmZwN0gwcmdJZW5faXNlZTdmb3YtRV96TDhZd0pJcDhicVdyeXhzSmN0bVlCVzFWRktkV2E5UTRlR0tUQ04zcy0zOE9ZSEdYSFFNcTg3Q2ZJVmhFaVRNTlJZR3lGd0M4Q1h2WENUUW9zc2ZyalNmVFpBMG9KTUd0d3VycGFWUGtPVHRCdkVEeTZMaWphOUtCaExqWlM5WlZaSkNMRWZFNk9Tc29nNjhBckVjMnNCUFhaMEtYRHd0Y0F30gHzAUFVX3lxTE9SdHZSTHUwckdDcGppTndOVDRETHJVNlZLbjU2czJpZ1VZS2ZkSWE1Nkt3THl1Y1dTUXItSGRoWDJzTjA1eTZWTUt0cENhVjJIX3JFak1URkR1TDBrNkJhXzA4eHBNY2N0MkwyczhkQUp4UjJacEh6UXQ4RG5qU2dKR1ZqYVBJdVcwRU05VTlXb2Frd3pGcE9CdFRUR2dzNDhTWl9BbFJaQ1JEMW44c20xRTNsRWY1ZjdSVlViLVRCNkZUbHVLZ190X1dUUld0bDZ0bTJlZnBGTDl0MlBlVjZtTThKLUpxbFVBQmpvTE5IRUt3UQ?oc=5",
-          "source": "Livemint",
-          "when": "Mon, 08 Jun 2026 07:00:00 GMT"
         }
       ],
-      "current": 33834.5,
-      "pnl": -54559.75,
-      "pnl_pct": -61.72,
-      "day_pnl": -61.25,
-      "day_pct": -0.18
+      "current": 35297.5,
+      "pnl": -53096.75,
+      "pnl_pct": -60.07,
+      "day_pnl": 1463.0,
+      "day_pct": 4.32
     },
     {
       "name": "Gateway Distriparks",
       "symbol": "GATEWAY.NS",
       "qty": 218,
       "avg": 113.9,
-      "ltp": 46.98,
-      "prev_close": 47.52,
+      "ltp": 47.7,
+      "prev_close": 46.98,
       "invested": 24830.2,
       "news": [
+        {
+          "title": "Gateway Distriparks profit falls 17.6% in Q1FY27 on tax regime shift - scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZWxrdU51SDcyMFpxU1FoX0FQQ2xFQnZZY0gySUVoSXYwZVhuUlJQTGJUelRjUHpfanFnbzc3NVIwbGJtSFN4YXRlbzFvNVhmVW1ZZnhGUUJQblM0YTR0aDY0Mk4wRDhTN3NpOUhXRFpya1Ffd1UtaVFDYWdWSGwzcG92ajhRam12NEpSbHhnQmtGV1FzbUJYY3pSdU9jendsT2UzUEwzZUU2bHBKaHBfOXIxX0Nyd1Q0UFVSeTNoN2Yyd0lERWtFTw?oc=5",
+          "source": "scanx.trade",
+          "when": "Sun, 08 Nov 2026 04:39:01 GMT"
+        },
         {
           "title": "Earnings call transcript: Gateway Distriparks Q1 2026 shares fall on weak margins By Investing.com - Investing.com India",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZy1vNEViQWpHbHJtUnlfeU9lREl2RVBPTjBRdUZSeVB1V0VUTk43MkNaRjhnZU9OX1J1Qkpua3dpVXlGeXloSXRFTG90OHI1R3BFWFpGR2pGbEt0bnQtZ3JUZ2h1UlpRT0ZiR09JTmVWd1lTQjFzRnJOalkxcWx6bGJwQUpacnhBcGU1V1pQXzhnRnB5Q2VpU0VyTGpYRlA2OFNIZUVTaTdIZXlmb1ZYUTFtZVYyT2Roc0FTVmFyM09WSjRmYmxrOXdmNVpLSmxu?oc=5",
@@ -945,34 +970,28 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd0M1V2pka0pQSGZfZWNtRkVHNE1sZ0xGRk5WUXBPWTc3UU14LThmM19MckkzaXplUkk2WmJrTE9IYVpMREhjMzhIcnNDQkdrYXB3ZGtMNll1QUcxdlNZaHh3S2tfdmtDWWdObEQ3dDNvRWNUQjk1OHRLdVRGQlZyS0o4MTB5dnhrQkJUbDh0Q2M?oc=5",
           "source": "Value Research",
           "when": "Sat, 29 Aug 2026 12:57:32 GMT"
-        },
-        {
-          "title": "Gateway Distriparks (NSEI:GATEWAY) Stock Forecast & Analyst Predictions - Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0xpam1sVkdBNXFick1aZEM2dEYwMS1oUURBMy1VZXB6bV9rUTZlTnhXT2xuSklmQ1hiMW1RUk5jWUtNeUV0ai0zaC03Q3pveGlBaWhoZXoxUjVNRWlQRXl1VXJqV0JfVWRTY01JZWFrUG9SeDd3N2dyTWhsU3FqTy1rSy0xTGpEeVRPZnpQUHJhVko1WUdr?oc=5",
-          "source": "Simply Wall St",
-          "when": "Thu, 29 Oct 2026 07:00:00 GMT"
         }
       ],
-      "current": 10241.64,
-      "pnl": -14588.56,
-      "pnl_pct": -58.75,
-      "day_pnl": -117.72,
-      "day_pct": -1.14
+      "current": 10398.6,
+      "pnl": -14431.6,
+      "pnl_pct": -58.12,
+      "day_pnl": 156.96,
+      "day_pct": 1.53
     },
     {
       "name": "Lancer Container Lines",
       "symbol": "LANCER.NS",
       "qty": 830,
       "avg": 60.21,
-      "ltp": 10.96,
-      "prev_close": 11.25,
+      "ltp": 11.52,
+      "prev_close": 10.96,
       "invested": 49974.3,
       "news": [
         {
-          "title": "Lancer Container Lines holds listing ceremony at NSE on Oct 14, 2026 - scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVc3aEt1eG1jMVpjQWJZQWhYdlAxWFNwa0VOM2x0Yl8ybU1WRlJLNXBodHFfSk9ZVXpiUEt0LTFjeUpiRHRVSVZUNXRfYmgzM3JNWDMtY29EX1VoWW9vUUNDWDVIbnduWTV0SUptaEg4SHdyM2NIcWFPaWZFOTJZaXJuMWFKLThoQVBKQklONW1XR1dnOENWcDZPSXNEMWtFNlBQeHhBNnpaOWpXcVVOaVNR?oc=5",
+          "title": "Lancer Container Lines Q2FY27 Results: Revenue up 143% YoY to \u20b922,733 lakh - scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ3p2QjZITXE4WnVOT0J5bFZfaGhDYjZocVhXTmNQQWhzcXBvSnVkcVFCaVpvQnk4eklxaHBPSjB0ZFllR1dQc3I3dmROREtrTnptYjRNbmlZcjY5ejJSSS1vRm1xMEZtYTR1aUU1T2NqdVNEUWVoWVhETWZDZEpKT1VFTlFDQjFIc0JWVUtKeF9Ra204Wlp6d2pGM01YX1l3Vl9sREZ5bWtUMzU4dno1WEdXQzJEekdwaUFWbDl4aldyQ0U?oc=5",
           "source": "scanx.trade",
-          "when": "Wed, 14 Oct 2026 07:00:00 GMT"
+          "when": "Fri, 06 Nov 2026 15:45:34 GMT"
         },
         {
           "title": "LANCER CONTAINER LINES Stock/Share price , NSE/BSE Forecast News and Live Quotes - Equitymaster",
@@ -981,59 +1000,59 @@
           "when": "Fri, 16 Oct 2026 21:32:35 GMT"
         },
         {
-          "title": "Lancer Container Lines Ltd. Share Price Today - Lancer Container Lines Ltd. Stock Price Live NSE/BSE - CNBC TV18",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYnA3OEdjS2pFUXRaSnlnNkRpeWpER2h4Y1ItWjZZR05MOVB6bEFiUUpRRV8wNlNDVzJTTGx0Y1hPNmdOb19RZkMxZ2QwdEtkUTFzOV82Vk54UUJ3ZXIyWkNza3QtZHdFeFJpWFA5bXFIdlNyUGduSy1Ib0UxcU9OUG1zZEdiV21TYXc?oc=5",
-          "source": "CNBC TV18",
-          "when": "Sat, 03 Jan 2026 06:30:30 GMT"
+          "title": "Lancer Container Lines Q2 FY27: Revenue Surge Masks Underlying Profitability Concerns - MarketsMojo",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdDFQb0x6WHd3bF9VY216WEJJNFJvRWpNTGVTUGdraUxmYjVVRmw1R2hZQ1dNRE9pM1k3YUJRdGRlOTZhdmRtX3JjX2RyQUlXc0p2QXc5emxyaXN3bFctV1lOUGtqU1NWRGhUQTR0VDdGOUc3Tl9wbjJZLVVSSzNtOVFMc1hra2NOa0NLenF5YmJlV09SWnFUYVFCWjhKdV9Ha3lXRkUzaFpFMVMzLU95Vlc4dnNDR1FjVjBGdjFOZDV1cXNaQ3BlUlllTDFNUDFnd2pkbmtTLWs?oc=5",
+          "source": "MarketsMojo",
+          "when": "Sat, 07 Nov 2026 17:39:24 GMT"
         }
       ],
-      "current": 9096.8,
-      "pnl": -40877.5,
-      "pnl_pct": -81.8,
-      "day_pnl": -240.7,
-      "day_pct": -2.58
+      "current": 9561.6,
+      "pnl": -40412.7,
+      "pnl_pct": -80.87,
+      "day_pnl": 464.8,
+      "day_pct": 5.11
     },
     {
       "name": "HUDCO",
       "symbol": "HUDCO.NS",
       "qty": 269,
       "avg": 292.49,
-      "ltp": 159.96,
-      "prev_close": 158.03,
+      "ltp": 169.14,
+      "prev_close": 159.96,
       "invested": 78679.81,
       "news": [
         {
-          "title": "HUDCO Q2 Results: PSU stock jumps 6% after strong topline growth, improved asset quality, margins - CNBC TV18",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOXzROb2tFNjU2bV9WaXhXQ2I3QU5veExOUVRGY3h2X1hYTHRDbGZXT1RycGZ0YmNBX2RNTU10cTVRM0RXT3VHZXlXYWFFTUo0Sk1IUlpjUDJieDZrRHNHdHFWb0pMNndidXp0bG1CaFhUWFBBM0FRUmVTQ2NkLWRuS3REdHpBekFkUUFuX2E3UE4tRkpTaWRuSUl2UDFCeGdXNHNTYXNKYWlJQ0pDcGoxQ0J4MFBxd0N6cHZmSVRFOTJQZS1VVFpKb251YkR1bEQyel9JY0lvTnNiUmJHdFhLdUhB0gHnAUFVX3lxTE10VzJZMzNoZkt3MVFZdFdjblBBbjlwR1lJNlV2RjV5cXZOQy1BMFFEeVR0T0Q1VGRnZ3llZ2hZZHhmak5jb3E3cWwzZmFFQUJZakhKUnpmZFcwZ1NSWDlVWDNOc0pnTXVmZE9WNW5JZkZBUEhUb1VackM5VmFiZkd6Q184R3NtNUZHM2JseFQ2UmZsSjVxdEZGQ0NFM05DMHVOU3ZhQXpJU0xDTi13bDZxeG9RbW9VbmJxQ2NNcjE0ZXpnUHhvOGxmN255M3gxbTZUWDJQaTk3b2RhQjdlcFpaM19aSTdEcw?oc=5",
-          "source": "CNBC TV18",
-          "when": "Wed, 04 Nov 2026 09:23:35 GMT"
-        },
-        {
-          "title": "Dividend stocks: Coal India, TCS, HUDCO, HCL Tech, GAIL among top 10 dividend paying stocks - Check yield, annual return - Livemint",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPekRRZ3k4UGdGM0V1TFJYVlRZbHpjTzBCVVQ1dld6SEtkMk5NaU55a3RIazFON1NvaGtEMG5FU1JMUDVLRnlQZ2ZIaUxQTWlaai13ZF9uNnliYWlmVVpCWGxNbzUxc0o2ZktUVXNQT2RWVi1SMmstMzU0cHppZUdGcnEwMFhzUFZPaERjUG1mSThuQ0Rrb0ZSLWJJVE94TTZ4STRXX2gyVS1UQjgxS2ZHelg4Y0Rfemt5V0xXMl9SV24yanRKVlJMZGhYWjAyVWM5YTNMaGVnMVpEZlZVUXk1SmxvNFhUS3JtQ2tWUko4UnI1THVLQ01Zd3c1dDlia2VqWWxKMWRuU0JGY0VEVHpj0gGUAkFVX3lxTE1Bclp6emltOEt1UGxsYXNEUG4zYVdpTGhLekh2MjZaa1ZHUDgtZlN5M0tPM1I5NU9NcWpmOGRuRUhtRlUwRmdVdmdvRXpOWVdIaDM2SDJsWVlnVG5TbGJvZ3RCS2k3SEdGb2tPY05vSFpyYXM5WVVRV2FiWE1fcldQX3dmaENCWG51T1JWeEVXMHQyZ1dEZzFVNGtFNmNIblNsemZZT0RWeHI1cXlaSGZWRGVjTmJDQXNMblAwSGNiNEpmOFpPMXlGZU10dTBvWHRKMWhXVEI3bU1vNEQ0aDFSXzNpZExySWVpRWtGV2FDZ0Q0YUtlbWpZdVBFY2hqQnBtenA5NVVFWlk5RkE0UmRSdkJacw?oc=5",
+          "title": "PSU dividend record dates this week: CONCOR, ONGC, NBCC, RITES, HUDCO, NLC- Check amount, record date, payment timeline - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTlJIRU14aG5yb3JUVEJYZXppdUhYSTl5ZDRpNU03UjhBczdvVEY3eWw3QThnRnl0ZmhBNHh3SjNOVU5pVERJOVFVX3Zfc2N6c2tpSjdhVkhXQ2VXRWJBRkxkOE9EaGl0amlBVktDZnF2c2laX1Y1OGVPUlctWWNqYjNjRkRnYXRET2ZpTEhBMEJTWnRybkdua0JBaEtPLWhnR25VZDQxMW0xQkUySUoxMlplX3M3WnQ5QXFZdWlJRWktSVEwcnNpY2xaWmphbVdPbTVGVS13WWtPSmppYkFlV1FRd2JoRGt5c0FOUkRLUmlpd01nd3F6OVJyVkFZOWNlM0hhQlRRYVFnSEpO0gGSAkFVX3lxTFBzMWFFT2tuWDBubW8xNGczWHFaZlI5TllJN2haUXR2enp1Nm9SU1E5SjQ5YjBSZ0w4alIxZ0pHU3F5dWhyTnNsZ2lQaU1sRlNzVGVtSXMtZW9QT3dHOG43UDZRbHU3NnpRVXNXRnhBNGVTak5lcDFIWnkzdDQwb0VtTWNCelYzdWVhbDNDN1djMWpjNGhib0NEN21uYVZQaENRVzhiNS01SnR6Mnc0emVmWXdnZ0lvNWJST0VrUnVWbFRfTnlMWExsVzduNGxxNjhkSHBvd2JlM1p5LXBrN2lHUTZBWVpYYjU4TTB5STNxWlMyRFlHdGU4Ml9SMjBOdzh3empMcnFHQkQ2T0tmcndyRGc?oc=5",
           "source": "Livemint",
-          "when": "Thu, 05 Nov 2026 16:45:23 GMT"
+          "when": "Sun, 08 Nov 2026 07:51:06 GMT"
         },
         {
           "title": "HUDCO shares crash 8% despite 172% YoY surge in Q4 net profit. What's spooking investors? - The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdDk1ZWRoZXlmTDhSeGh1aTQ1NUNIZHAtREw1dzR3RHpwNDBBSGNmTHFudEdNVjdfM1BiRVRxNzZpUmlqdkNwVXp1RkFLVUlVbFV6YUpCcTN4VTBMS21xMGY4d0xJSHNSZVVEUnRGUG9XeW5ld3cxdWRmZ1NfaHU5T0JoRmZ1bEEyUFMxbE9jZHhSbkZaNmNaeVVlTmtKLTdkQXgtUUlaaHpsa2o3aXpqRUJka0pyRVNEeGt5UmNzVk5qa1ZDenRiLXYydHVacEpvNVRac2phNDNubVBNQktqRkU5VjZXR2xWZWFGSnp0c9IB9AFBVV95cUxQNkljd09aakp1UmZFRDF5b0NTVUtucVBDOGpvZkQzSzctbTJoMDZMbVRmVzNTc3ZBWDV0Nmg1R0tMdUpWSkxEczRCUVlRdGg4cXQ2c0QyZWpNamdGV2NoUWRla0VoNTBsWEZtUE1rS3pUR0JySFhrb085ZWl4QXZjWmpfYWh4MURiM1U2cGlvczIwUHJIcGsxUGZWWUVrSU9YVGNJdmNVOFE1c1pWSnQ5RHJtTDZhNWdMUHhLYTRXQ2I2dllZTC1ZZ3lEU015RE1tbGh6T1lQWFJHZDBSNkZBVWlfNm5lMi1fYU5jcWR5RGZDVHFH?oc=5",
           "source": "The Economic Times",
           "when": "Fri, 15 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "HUDCO Shares Fall 2.31% to Rs 195.00, Among Top Losers on Nifty Midcap 150 - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNczNZRFdKbTlyU0pFQ2lxNzJld0N5YjBWaDdsR0RlN3pBY2VyNU82cXB0WXpXLXEza1pOaXB5VmVNYXNhWVdpYU5iblA0ajhfdHJzQTNvblF1dDRETl9wakpzSC1iTllFMXAxRmk2cUVhSE40TnRzY3BkVl8wSXU1dklyeW8zSnhHblBhUU1hZHB0RTJnak1tTU10Vk8tcTh1alBEanBBUml1M3V3LXZiMU10THNXaVdQS2JCMFk4NU11Q1BrZ0RrMXpxc0hqWXhMRWVqcy1aVHZKMHFBSE9nLXUwa1PSAeoBQVVfeXFMT3lPSktJUldmbDQyZWxIR05YbWVLN19OdEhzOGRWMzVvVzVOMWJ0WmQ0SThKUFUwVlpRdER2REs1MXZidGFQRUpHSmhyaW9DeUtOYVB5dlhTbHBTSk5PWk82d0FYNTYzMm9lbkNZVUJHSmt4ek9kU3ZtV1ZQLVlBMm1wdE9HczVUclJ6b2pzMmV2RXEwT2hzenQ2VEllLW5UQWQ2ZVh5MVJxLTN3eHhRSlRabEQtLXpVOUF4MG5CR0xaQ1RkcktVRFN6OHJFM2hySEFmX0tCTW9MSGNUTVpYMjhjemxXVGR3NFN3?oc=5",
+          "source": "Moneycontrol.com",
+          "when": "Tue, 11 Aug 2026 07:00:00 GMT"
         }
       ],
-      "current": 43029.24,
-      "pnl": -35650.57,
-      "pnl_pct": -45.31,
-      "day_pnl": 519.17,
-      "day_pct": 1.22
+      "current": 45498.66,
+      "pnl": -33181.15,
+      "pnl_pct": -42.17,
+      "day_pnl": 2469.42,
+      "day_pct": 5.74
     },
     {
       "name": "PNC Infratech",
       "symbol": "PNCINFRA.NS",
       "qty": 380,
       "avg": 386.9,
-      "ltp": 130.2,
-      "prev_close": 129.32,
+      "ltp": 131.5,
+      "prev_close": 130.2,
       "invested": 147022.0,
       "news": [
         {
@@ -1055,34 +1074,34 @@
           "when": "Tue, 13 Oct 2026 07:00:00 GMT"
         }
       ],
-      "current": 49476.0,
-      "pnl": -97546.0,
-      "pnl_pct": -66.35,
-      "day_pnl": 334.4,
-      "day_pct": 0.68
+      "current": 49970.0,
+      "pnl": -97052.0,
+      "pnl_pct": -66.01,
+      "day_pnl": 494.0,
+      "day_pct": 1.0
     },
     {
       "name": "Jio Financial (lot 2)",
       "symbol": "JIOFIN.NS",
       "qty": 645,
       "avg": 263.25,
-      "ltp": 231.2,
-      "prev_close": 229.62,
+      "ltp": 230.0,
+      "prev_close": 231.2,
       "invested": 169796.25,
       "news": [],
-      "current": 149124.0,
-      "pnl": -20672.25,
-      "pnl_pct": -12.17,
-      "day_pnl": 1019.1,
-      "day_pct": 0.69
+      "current": 148350.0,
+      "pnl": -21446.25,
+      "pnl_pct": -12.63,
+      "day_pnl": -774.0,
+      "day_pct": -0.52
     },
     {
       "name": "Himatsingka Seide",
       "symbol": "HIMATSEIDE.NS",
       "qty": 660,
       "avg": 176.77,
-      "ltp": 58.15,
-      "prev_close": 60.17,
+      "ltp": 59.63,
+      "prev_close": 58.15,
       "invested": 116668.2,
       "news": [
         {
@@ -1092,67 +1111,73 @@
           "when": "Mon, 31 Aug 2026 03:38:28 GMT"
         },
         {
+          "title": "Himatsingka Seide - Sunil Singhania\u2019s Abakkus Portfolio: 6 stocks rally up to 75% in CY26; 5 new buys added in Q4 - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOHh0dDlld19pUXMyTnlGQm1tTHZUWnFnbHBta2E5c0VITEFkZ05pcXFEVmlaLU9pblYxb1ZZVGZBM2JNV09IaGd1OE9kZ3FSbHVVeEo4V3VzNlZ2bFYyejRIVHBnMl83ZTJkSWMxWHcxRU5aOUtQVDMxeU1VS0x6V21lbjdtNXdwMm52eVI1d3dHRy15SnB4MDN0Y0NQbjFKZ3g1bW05MkNXR3R4LUlxMy1TNEdWQ09rbDZZM2RvUGpIUk14cmozOXhxeFJfaG02aGY0R2ZlcjdMMGVSTDR6Mnc4Y29DdjUteUtrX2Q5b3RKemlrdnh0dC0yVUZJNmEwSGxXT2dBeDcwc0E?oc=5",
+          "source": "The Economic Times",
+          "when": "Sat, 30 May 2026 07:00:00 GMT"
+        },
+        {
           "title": "Himatsingka Seide Ltd. Share Price Today - Himatsingka Seide Ltd. Stock Price Live NSE/BSE - CNBC TV18",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTGdNcDNSUjRLSTVTNGtxUXJDcnk4Z3RkUnljSk1pUG1ld0s3SmlwbWVtSkdRSFFDbXM5RTB3VlFGQldRMTh2QjhIcVg3SDdOa3R3Q3BieHgySE5FOGYwNEYwUm9aRDBIWmtmLXJHWVg0Vk91ZDhza0J6WDNETVEwcHhB?oc=5",
           "source": "CNBC TV18",
           "when": "Sat, 03 Jan 2026 15:16:58 GMT"
-        },
-        {
-          "title": "Himatsingka Seide Ltd. 52 Week Low Streak Extends Again - Univest",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWUZ3eEFscWFlSDk3YjN1Z0VWbXFlMEJCTm1vakl5dzFJUkpkSTVLZzVhVE5NWTI4UlZqXzBscWVVcTk3S0dsUWozZTdXd00tZ0tGMGppRGZPSlBPZ09WVTBPbFFodzlVbUp3UmVnNGd2UDM5OVBLWGZ5ZnctSzNPLXJfYkJwYVkwYk5rYkpfLXhjVXVv?oc=5",
-          "source": "Univest",
-          "when": "Tue, 13 Oct 2026 07:00:00 GMT"
         }
       ],
-      "current": 38379.0,
-      "pnl": -78289.2,
-      "pnl_pct": -67.1,
-      "day_pnl": -1333.2,
-      "day_pct": -3.36
+      "current": 39355.8,
+      "pnl": -77312.4,
+      "pnl_pct": -66.27,
+      "day_pnl": 976.8,
+      "day_pct": 2.55
     },
     {
       "name": "IREDA",
       "symbol": "IREDA.NS",
       "qty": 580,
       "avg": 191.95,
-      "ltp": 111.46,
-      "prev_close": 110.15,
+      "ltp": 119.65,
+      "prev_close": 111.46,
       "invested": 111331.0,
       "news": [
         {
-          "title": "IREDA Stock Price and Chart \u2014 NSE:IREDA - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RNVNpclUza2M5V19XQzdwZ2dURzRFaG42Tk1aa08xQXU0ZU84dzBPcjZHc2F5MmRadF9vUmd6RlZOYktJLUJYbF8za0laSlI3YWhHS0N6N0NCUQ?oc=5",
-          "source": "TradingView",
-          "when": "Thu, 29 Oct 2026 07:00:00 GMT"
+          "title": "IREDA Share Price Jumps Over 7% Amid Robust Volumes; PSU Stock Up 20% In Ten Sessions - NDTV Profit",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN3FOZ3UwQ0F2bHVmenZBd3duWFFzbmJBM2RjdWVESEhVWjY4MGZkM2lhUXhBQm1aZVBGcnRsN244VHY2QW5fY3l3cWVVeHZ0azE5RnVibU4tSVNGMThKREYzUGlEUmwyUTJNZjg0aEh6d1pCMFN5dVByRlRZYWpHRC1XanBQOUdkbVNSS0FDemJEbDROeU95Y3owUmxuRkw1YjVtRkFnU3YwZ3VaeUZ3bUpHUGVSMlNjSzM5VVlIeGR5MjFw0gHMAUFVX3lxTE5JNF81YUt0Mm1SSUQzcExEVDZIeWoway1wcVFobXFpQ0oxRzBVbWVyaUZycEg2cGs3U2RUdXFTZnE5NzFRR3VCSkdReGh1V0RaUy1HdUk4SkxwR3FSdVpyTHVIWGRyVXppSUg5aHluX0dqYmF4UWFUWlNzV0p2RzN3YWM1Zk1HamxSQ0ZfOTl4NFpaQjFUdTJSVno5TEtrYmJIWTlvSmdfUnRDbUppNk11TWJJT0hXdF9KLVhXa2FYTHpTY1BSTnIyRWl3eA?oc=5",
+          "source": "NDTV Profit",
+          "when": "Mon, 09 Nov 2026 08:03:16 GMT"
         },
         {
-          "title": "IREDA share price falls from \u20b9310 to \u20b9111 | Govt decision on top management; what exchange filing said - Livemint",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMHlPb1JRLWRYcWNWVHd0NFJydUY2akZITHBSSFJ3amdYcFRuYV9HLWZtTkVGQ2c2NFQ2WkFSWDJuaGFRN2NoRUUwUm5lTWJ1T2dyc1VrQXdvdDhIeHBVaXBPMWpyc1pONk9GSVBOa2t0NUNvd2EtX1dpWWZZLUtpSndKTk1ZUVd2S3pleWR6aDEyNVdnX0hkaGw3eXdDbmkxbzl5Nlo0Q3YyZW81Xzlyd0dnbEZUQlQ2dFdVcm5NYXhWdWo3STY1LW5XalQ0bXl2QlAwbGkxQkdBUnJQRGRnQk9mdElWUm9xQXJhWmN3QjdRVkgzMXpvSGhxa9IBgAJBVV95cUxPMnRMUUU5WWZfQ2wwY0NDRnRTc1E0S3JNYWM4U0JXc1YtY3I1T29DWTBsYWNjcTlDYWxxSUNvLWFmVDVvRDBkeHE0M2tGZnNpVGhacXdKNGVfUi1QTHZDakxBcWVoTHN2ODdna1ZwUkxib0FPSkRWNmpGVGM2eFkzMGpNT283SjUtLWFhLThOd3ZlNmE3SElkbUZBVFNkUmVRYlpPTWdxOWtOVExxRHpMTXNPMFlmUHZVQW5yWFFiR0Zwc09weElsWFREa0dVVjJ1SDNncnotVXZQRnVPb3FWX0V1dWJTYzR0WHBRN1gxYUZCbkRXRGpva1MxZzMxNGI0?oc=5",
+          "title": "IREDA stock rises 8%, logs seventh straight session of gains; rebounds over 21% from October low - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONTZBY1ZrVjNmeGtiMjJJSVV0N0FBRzJRVmNXWFRKWWlMOFZuYzRWOUkxcmxkNEpUa2pFVURIejRLT1ExdmRNVEhybFY4QnBaQ2JTNDdMNkQzTms4Rk5hVEtrZGVuS3hDNlZyY09vTWRLanlBYXJYMzluN01XWUlxWk14bmVuSVVmWXNLMC1rdXYtWjk5eEZ1MFpfa21McFB0MHZ6WVRxeU90NDZYc3lDT3hBWjBOT0FybzdHN3Y2aDdYYkk0ZnRMVjBYOW8wckR3V0kzd2ZSOFNIeWVXcXNGTldJTDNJSEc2NkNaSFh0SGc0cDYxSDFqNlBB0gH_AUFVX3lxTE4yNmNmNzl0MkNtSWRQUlZaMGdZN3Z2ZnRISXctLW92b1BSR3lEMG56dExoRUpxaHBRbW10NThzeGJBMlFtQlVlNWxnUEFlamFvNnlYNmMzc19zdkJZTlFteVNUTENtSlFGVUF2enFya0dSSWVWME1mdDl1SzZpMjlEWDB6MmMtMDJTSGJOWkhzcXV2cjFsUzIwVlIwNnBhaG91a0lpMEZna2tDQ3hYMmdtLXhqSTktYm9RaEhrNmNhZUF0V0k2QW03YTNfZjZlTWJ1OGJPZ05IdmZUaEpqdF9PSnpKcEZFblZIUldXdXVEd2lDLUFtZ0RHSlpDNE1BZw?oc=5",
+          "source": "The Economic Times",
+          "when": "Mon, 09 Nov 2026 10:03:27 GMT"
+        },
+        {
+          "title": "IREDA shares jump 7% despite 20% fall in one year on high trading volume | Check target, stop loss, stock performance - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZkZnVG5yLUpBRU1GeGliNjZCUXNWRlJJWWZXSlowclB4VjR6X3JxelVSbFVzY1hpN0lVYUo0TDNVNm9UMnlyenNFbHc5MlFVUGlBUlljUmVxNDNUUmhaY1VzQURtT09SeDlJMFZKWldJOEZLS2RHWXA3Q1MzWnBySkVHZWhxZERITTJtT0FkRV9PaFRlRGR6RDFYSC03eVBpUjZVcEpqM3FQZGg2aTk3T0xiTmswSE1aLTFfaTBJTnFRSmFGc1owSk5WQ19jX2lOOEFMU1JyY0tNSWZ4SXhNLV84V2k1SktfWUZwZkFidjVCbEczRXVLbW5jbkVYU0FfR2xiZDV6RGZUREVtLVHSAZMCQVVfeXFMUFRUWU5HQVZLcEZwU3BWN01VNEFiRE93ZThaSTlyYzV4Q0VTMWRodHp4UDduR0x4V0FnMjBHdklRUktoUFVGaUZ0QU9ydjl4LVF2YkNXeVQ5NXRmaFNhekp5VUdfc3NwNDkwbHpTOW5IMDJ5MDEyX3dncE5TbHZQY0FEUjJkQmk4WFlRQ0xYZWlCaXpGaEhQY2Nha0RVLUJVQmFzalE2RTZ2aFRybXZxVVJpUWR3bkp5NTQ3a082aUtVallsM1k3UzVHY2NRdl9PNlJQUm9wR0EwM09Sek9Sank2UGFDbmhzUklTR1lPbEkxZEFKZ3JrS3lDa05lVWdkUG9iT2wxTmo0WTVHME1DVDhUVVk?oc=5",
           "source": "Livemint",
-          "when": "Fri, 02 Oct 2026 07:00:00 GMT"
-        },
-        {
-          "title": "At 52-week low, IREDA stock in focus today on MoU for FY27 targets - Business Today",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbF92bThQb0Ytd3U1dkgtQ0pjWGxUNlEtcHhTc3pHWlp6d3UyX1h3QlBtNnVjdHhKeG95SlJ0VVk4VDhlZVZnb1U0VDhCRlYzYlZMOF9zU2FPMldCclFxUFZ4Ym9mQ3RHVGRvUG5xUy1aRzdpWVR2SWNwU2dFZHNKX3lybV9keVlXSDNDVGFPc3FOUHlBR1R6UkwtRER1NDVqRzhLVEpBc1lkMk5fQ1A2dXpIcUFSclQ0c0s4aFZ5c3JmSUFxVDJyVUZlRWk4Z9IB0wFBVV95cUxQMzdzR3ZVLXZyemxoNmJuZ0xtREdXWlZuamswcWZlcXN6NUF4RnV6VDRFVzVTUzZocm9HT1dJWjBycEFjU2prU3piMS1TRUx1SVhoNmVnTENEZzZYOEswaXlVeUFqeEdHQUlPUVNLSXBHNm54WTFHT0xZVE1HLUkxNXFGRnpoZFJweWFRY0pnekdyUTdIekVaNVZQN1RINE9LSUZHNFE0QWxoOTE4WGFvSHkzaGxnMXp3OW5mbnhlR2pjckpLWXYwa1oyeTNDemFTN3U4?oc=5",
-          "source": "Business Today",
-          "when": "Tue, 06 Oct 2026 07:00:00 GMT"
+          "when": "Mon, 09 Nov 2026 09:34:49 GMT"
         }
       ],
-      "current": 64646.8,
-      "pnl": -46684.2,
-      "pnl_pct": -41.93,
-      "day_pnl": 759.8,
-      "day_pct": 1.19
+      "current": 69397.0,
+      "pnl": -41934.0,
+      "pnl_pct": -37.67,
+      "day_pnl": 4750.2,
+      "day_pct": 7.35
     },
     {
       "name": "IDFC First Bank",
       "symbol": "IDFCFIRSTB.NS",
       "qty": 1650,
       "avg": 71.73,
-      "ltp": 77.33,
-      "prev_close": 77.8,
+      "ltp": 77.87,
+      "prev_close": 77.33,
       "invested": 118354.5,
       "news": [
+        {
+          "title": "IDFC First Bank shares jump to 52-week high after Motilal Oswal upgrade; Here's what it likes - CNBC TV18 - LinkedIn",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVHhmSE9wamJFTk4yM1JySDA4YW1KMjBoYUZ6U21LWUZyVE1ScUJaX0RSbXRNb1FnLXpROVctUU4wT1NJcWczNXEzRkRYUjF3d2tTZV9UdnF1NnFsemdBSGdGVV9nemhsaVpnMktUcURVd0lPZXVpcjdBUXhmQVVjeVNudjFFYWZycm5taE0xekwtUkJzS3B5eFA5YUkxWFR6R2xqaHV3dTkxSVpndVF4N1ZGMUxZT2VqUUE?oc=5",
+          "source": "LinkedIn",
+          "when": "Tue, 22 Sep 2026 07:00:00 GMT"
+        },
         {
           "title": "IDFC First Bank share: 30% rally in 6 months! Experts see more upside after Q2FY27 business update | Target, stop-loss - Livemint",
           "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZkJ1UHItOXZsbmNxUUJyVFhLQXNOemNhV0V5OVdPWDNPRHhvQm5OVkdUdk9Vc2h5NF9RVFpBbzVxTjQ1RS1jdjdKb01yQzB1dnYzS0xOdmYwLWhOblF6dnZ6aVRZMHVaRDgyall4VDlqNnJZMjRkOWx6OXVBeGROaVNBYURIUm5kN3drQ0w5ZFlXM3Z0dnktVmZabGF4UGM5UHpLeG5GcHQxUzNRMk80ek1hLXF4ankzeHIyNmFpUFBJLWx6MTREOG9MalNOeExJV3VzZ2xoWVhHTGVsWFlEMkNKNk4xaDFaekRiLWkwOTNZR0JMOGRERUc2RkRheFd4NTh6T2VzY3VUd1h1bHfSAZMCQVVfeXFMT0RUSkNKQTNIVm11QTlaUVoxcDJRT0p6MWk1OW5rOGhwM1pkNGFTcnBHci1QakVkTkY1dTF0NTdGMXhPWkhLeDZxdVBjY1BoY2wzSjVNODBwWVF2Tnc3MVBXVVd3dkRzRE1PdkxTMWhLc0gtNU1QRXlSaW12blVJdnBPcW1nQm1RdnZoeENqdjYtM1RRaU9LMThIaGNmUm9jSnktV0xueWdLeGhfU0h1R2htWDZNbkg3WVdGTjRTa09nVTF5UmlWTkUxR0ZqYXg2aG13WHJuVy1NaTc5RHVmYkdXNXA0ZDFETFRMOFJhNDZ6SF9oNG56aE9XY3gtdGw2bUlaTHF3bDhqMm14QXdJX0VfSnc?oc=5",
@@ -1164,61 +1189,55 @@
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYmJwRk5reWNPS1FONm1DVDdYaFJKOUF3LUZ1eWpYOUoyMmlfaHM0VlZ3Tm9FTFAwcnoycWtOaDkzSGFHLVBER3VQMWdTWndIRGo4WkMxeTZ4b09jWkNhT1ZwcEVhcmlzY2wzM3lLeUI4N19neFpxajhyQnV0WnVjUi1SRE5UbkowRmlacGp3cXllM0R0S2dMZ3FINmpBZTRsWnFYbTF4LVdZM2c4M0s0dUVWeEJQNFdLTHJWc1ZWcHlqWnAyZ19FM2UtY2QzYXRhcVZpbW5HcWtzQQ?oc=5",
           "source": "Goodreturns",
           "when": "Wed, 28 Oct 2026 15:15:50 GMT"
-        },
-        {
-          "title": "IDFC First Bank Shares Rise Over 4% On $3.57 Bn NRI Inflow - Equitypandit",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNHZLT3EyRUwyM1BobmdOejlQOGxLZUlTSzA4c0xXMV9WNWk0dFpiSU9xcmQySm5PeW5uRjYwcnBhMVo4NDBLQWJBMG5oZjZtLUZIa28zZnlhNEE5WVVtM2xPWHl5TGFlWExEXzdVc1NhZUpNYzFOZlk4ZzJ0TjM1OUZPMUx3d1o2VTlvZEFZNA?oc=5",
-          "source": "Equitypandit",
-          "when": "Thu, 03 Sep 2026 07:00:00 GMT"
         }
       ],
-      "current": 127594.5,
-      "pnl": 9240.0,
-      "pnl_pct": 7.81,
-      "day_pnl": -775.5,
-      "day_pct": -0.6
+      "current": 128485.5,
+      "pnl": 10131.0,
+      "pnl_pct": 8.56,
+      "day_pnl": 891.0,
+      "day_pct": 0.7
     },
     {
       "name": "Vishnu Prakash R Punglia",
       "symbol": "VPRPL.NS",
       "qty": 1360,
       "avg": 201.54,
-      "ltp": 26.85,
-      "prev_close": 27.54,
+      "ltp": 27.38,
+      "prev_close": 26.85,
       "invested": 274094.4,
       "news": [
-        {
-          "title": "Vishnu Prakash R Punglia confirms no encumbrances on promoter shares in FY26 - scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNURFUzk3S1VJZkNJOGhmdWlYMGZyd3E4cmRtWFpPNGdvdG5EY1hnU1FKTnNZd3N0TnhBdzlRUFZFMWZBTjVJRW5xd0FDTC1RVHlTbExIYlowVFFOQU0zUWNNR2gyUDMzMHZrcV9lZVQwLV9KZ2phVThmOTRMbm0zZ2plQ19ERW5YTWZySG9FQmxHTXh5eklwcTlwU1djcFhMNUFjYlBXcXk1MzZIaTM3VVlnMFA0Z1hpOThuQURidGJQSFphVXFmNERReERlQQ?oc=5",
-          "source": "scanx.trade",
-          "when": "Wed, 04 Nov 2026 02:22:52 GMT"
-        },
-        {
-          "title": "Vishnu Prakash R Punglia Limited Promoters Sell 4% Stake - Multibagg AI",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOGZldmpKMzhyMFNTY0R5UGhjTGJJNzh5SmhOX0x6TEhxRm1jS1BDVExuT0RWQVBRdm9JQ2k4QjFWSGJHRzZpa0pwLWZPOG5CVTNyRTU4OExKY2NsSGl3YTVlbHpzTE5BMFFvS05QeU5CT0doM1Q4UnNqUEwyVFo0aGpXdUdPR1lpZU9fZDZTM3d5dU9hSG1DM2gtX2ROdnBadXVqY003MlZMOHNi?oc=5",
-          "source": "Multibagg AI",
-          "when": "Wed, 04 Nov 2026 06:05:38 GMT"
-        },
         {
           "title": "Vishnu Prakash R Punglia Ltd Shareholding Pattern \u2013 Promoters, FIIs & DIIs - Value Research",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNVJfdmI0SVpKLWNhWktHSl9NWmZWTmdWa1JOYk5HcW9mcFZXS2ZsTzBMYjQzc0ctdDE4LWhMWkRjQ0ZDMFNWVEstU3N2MXdXcjRqZU9BM3FPdEhza25uM0oyUmxCSXlSYzgtNFg1MVVabWFXeFdETEMwbWR4aFRlSkt2QnlDcGJ1TU9mc0pPemwwVEdwNjFR?oc=5",
           "source": "Value Research",
           "when": "Mon, 31 Aug 2026 17:20:38 GMT"
+        },
+        {
+          "title": "Vishnu Prakash R Punglia board approves \u20b91 billion fully convertible warrants - scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWJhblNWX2wxd1hVYjU3dUJfZGtLRkNqN0RLcUJURm1aWG5oMEpvVGpWcEM1QVBsWE5fMDIyVGpOR1hPYW9lb0dSN2lxSklHMVlENEJsQVkzcWZDZGt5NnpIcUg2cnFTU2RnT0xjalNGeVIyNzlzcTBwQ2hXR0VTQ3FqemxwQmZ1WktPX1NnVDhiQk1qY0s5OXlYM1lmUmZSQ0luMFphN2p1V0FOaVBGd1BTVVh0NEN5X0ZqNFdZVGJidw?oc=5",
+          "source": "scanx.trade",
+          "when": "Tue, 01 Sep 2026 14:01:41 GMT"
+        },
+        {
+          "title": "Vishnu Prakash R Punglia Share Price Rise 0.66% After Rs 285 Crore Promoter Capital Infusion - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaGtmNlRIZkhEdTFHc3hJM3d2ODhEUFZramVWTmV2Y014MmVEeHc3eU1NRzU5UXpEV3dZc3VqclNtbzdmeW9hVjdmaXUxNVlyRElnS1dfdk9laV8yZ3hVRGRsRlkzTndkNjUySlRMRllCNFdWWkMzQVNrdURfRTNqQlNRRUp2UQ?oc=5",
+          "source": "HDFC Sky",
+          "when": "Tue, 10 Mar 2026 07:00:00 GMT"
         }
       ],
-      "current": 36516.0,
-      "pnl": -237578.4,
-      "pnl_pct": -86.68,
-      "day_pnl": -938.4,
-      "day_pct": -2.51
+      "current": 37236.8,
+      "pnl": -236857.6,
+      "pnl_pct": -86.41,
+      "day_pnl": 720.8,
+      "day_pct": 1.97
     },
     {
       "name": "Techno Electric & Engg",
       "symbol": "TECHNOE.NS",
       "qty": 121,
       "avg": 1296.4,
-      "ltp": 928.5,
-      "prev_close": 942.75,
+      "ltp": 946.7,
+      "prev_close": 928.5,
       "invested": 156864.4,
       "news": [
         {
@@ -1240,19 +1259,19 @@
           "when": "Mon, 29 Apr 2024 07:00:00 GMT"
         }
       ],
-      "current": 112348.5,
-      "pnl": -44515.9,
-      "pnl_pct": -28.38,
-      "day_pnl": -1724.25,
-      "day_pct": -1.51
+      "current": 114550.7,
+      "pnl": -42313.7,
+      "pnl_pct": -26.97,
+      "day_pnl": 2202.2,
+      "day_pct": 1.96
     },
     {
       "name": "Ganesh Ecosphere",
       "symbol": "GANECOS.NS",
       "qty": 50,
       "avg": 1557.12,
-      "ltp": 874.8,
-      "prev_close": 901.0,
+      "ltp": 867.7,
+      "prev_close": 874.8,
       "invested": 77856.0,
       "news": [
         {
@@ -1274,21 +1293,27 @@
           "when": "Sat, 18 Oct 2025 07:00:00 GMT"
         }
       ],
-      "current": 43740.0,
-      "pnl": -34116.0,
-      "pnl_pct": -43.82,
-      "day_pnl": -1310.0,
-      "day_pct": -2.91
+      "current": 43385.0,
+      "pnl": -34471.0,
+      "pnl_pct": -44.28,
+      "day_pnl": -355.0,
+      "day_pct": -0.81
     },
     {
       "name": "Shakti Pumps India",
       "symbol": "SHAKTIPUMP.NS",
       "qty": 180,
       "avg": 767.67,
-      "ltp": 348.65,
-      "prev_close": 357.85,
+      "ltp": 355.8,
+      "prev_close": 348.65,
       "invested": 138180.6,
       "news": [
+        {
+          "title": "Shakti Pumps share price rallies 12% on \u20b9236-crore MSEDCL order win - Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcjJFbTBIbU1Pa3FBTkJWUVVJZ19SdTVxanZldDlTbTREbkJhVGtkZGl5WGZTcnRzWjJxSlJpQmFBa2tWcm1BRzNYX3lwYmpEMEZ3dFJwRVVVWTJIN0x3aXhVclNhQ2VaV0VHMkNpcVJTaHR3eUhsU3hRcF9nd1VFQUpObHR0ZlBjdDNab0Z5cnVacFBFNTg1RVdEMTFqYkktVmRiZEMtVkFoWDY5NXFYTHd4X2kxbk8yNlpvTjR0dzd4YzNoSHRtemh5V2HSAdIBQVVfeXFMT3I4RHBDaElwVTBFYjF0Z0lrV2JfMkFQWTg0RXk3M1pmM2FuZW5nYVFzaDZJR084WkFZaUFVaUstZ1FBbW1xVkU5cFBfMnRFdVlZSWJVWFNST29fMkFzWGhsV0NJenl6eGdfZ0tTUUdOcnFhRTdPdS1FYWtoWlNNSFoxcTlWemVVR1RQb200WllSWnlxUG9OTHZVYUNnXzA5djZIeFBYWm43OWFjRDlSVUNjRWpndi1sODF1R3JNSGxQN203ZWZNU0c0N3RzOWRRVnNn?oc=5",
+          "source": "Business Standard",
+          "when": "Thu, 10 Sep 2026 07:00:00 GMT"
+        },
         {
           "title": "Shakti Pumps shares jump up to 12% on securing Rs 236 crore order in Maharashtra - Moneycontrol.com",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUkViVlNwU2FkdWVnNjdiLWFpOFNtOW9neVNyN2ZxeDl1U2QtMmxnaEpsY2U5eHR6SV93c3VscG1YVzlUeHI4NVA0T2pqMWZ5WUZOV1Z2UFFRR0JjZ0dwdHBZQUdJX1FnN3lhVDk5XzNEdWZnbVpSQWdzdm5Eb2pVbElMUlFXOHdWWHhHZl9PXzMwdUl0NzMya2Q0emR5QXJNSUlWYm00ZG1MUGY2ZC1MM2lEdExyaGdZSUhlejJBU1lWaTlZNEFBS0k3YXQxbG9RQldnSS1XT2RJdUlqUFRZ0gHkAUFVX3lxTFBMTkVlWnY1SnNMV29LT3NoaGNCNExzQkgzd2lSVjhfZ3hYeXJpZVZUNDg3aFZKbFYyWEx5elZkNTVha3IzU1pYR0ptY0Y1NWN4bERTTWZ1MlNIejg4RVpBeXBmUGpHRG9WcUlqSml4d3MxX290NTZDNzhtenJNZUFSVFcwVlVjc3VXSnN6VW1xWi00VzRoQi1OeklwMkxDcG5qaTlGOUZORTNfVlRsdVAycmhwUzR4TUVFVFBOdkZ5a01KVGJPQ3RGMW9aclVsWkdnQTZ4cUZqTWYxbnZNYlEtTGR4dw?oc=5",
@@ -1300,68 +1325,62 @@
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdkhsb3VlUy12MHNCWkljY2lnR2FPT2U4NG5VSTJKYnVCUFByalBYRjFNNERrXzJUMzBNbkZBY3lkU0U5MjJTdXhsck4zMFlwdzcxWHVhVkI2LXVYU0FjMFQ0SUpCRXA1ck8zUFFUS1p3bHVfYXkxUlNMd1ZUU2lRdFVqNjByYWhtYjlUZDNLRUlYam9vc0lzc2dqbkN5Z3VDeGJzcHBFNzk0WEU4dVZ2WUNxd2dBWmo5b0c3Rm5JbTlnMXNlY3hCUjJ0UkxSZFdBUGJNOHZXNDdITDQxQXcteFBZdzUxTWc3elV6OUwxSHJOVlZqRS1n?oc=5",
           "source": "Upstox",
           "when": "Wed, 09 Sep 2026 07:00:00 GMT"
-        },
-        {
-          "title": "Shakti Pumps share price rallies 12% on \u20b9236-crore MSEDCL order win - Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcjJFbTBIbU1Pa3FBTkJWUVVJZ19SdTVxanZldDlTbTREbkJhVGtkZGl5WGZTcnRzWjJxSlJpQmFBa2tWcm1BRzNYX3lwYmpEMEZ3dFJwRVVVWTJIN0x3aXhVclNhQ2VaV0VHMkNpcVJTaHR3eUhsU3hRcF9nd1VFQUpObHR0ZlBjdDNab0Z5cnVacFBFNTg1RVdEMTFqYkktVmRiZEMtVkFoWDY5NXFYTHd4X2kxbk8yNlpvTjR0dzd4YzNoSHRtemh5V2HSAdIBQVVfeXFMT3I4RHBDaElwVTBFYjF0Z0lrV2JfMkFQWTg0RXk3M1pmM2FuZW5nYVFzaDZJR084WkFZaUFVaUstZ1FBbW1xVkU5cFBfMnRFdVlZSWJVWFNST29fMkFzWGhsV0NJenl6eGdfZ0tTUUdOcnFhRTdPdS1FYWtoWlNNSFoxcTlWemVVR1RQb200WllSWnlxUG9OTHZVYUNnXzA5djZIeFBYWm43OWFjRDlSVUNjRWpndi1sODF1R3JNSGxQN203ZWZNU0c0N3RzOWRRVnNn?oc=5",
-          "source": "Business Standard",
-          "when": "Thu, 10 Sep 2026 07:00:00 GMT"
         }
       ],
-      "current": 62757.0,
-      "pnl": -75423.6,
-      "pnl_pct": -54.58,
-      "day_pnl": -1656.0,
-      "day_pct": -2.57
+      "current": 64044.0,
+      "pnl": -74136.6,
+      "pnl_pct": -53.65,
+      "day_pnl": 1287.0,
+      "day_pct": 2.05
     },
     {
       "name": "Astra Microwave Products",
       "symbol": "ASTRAMICRO.NS",
       "qty": 111,
       "avg": 869.93,
-      "ltp": 1557.8,
-      "prev_close": 1558.0,
+      "ltp": 1659.7,
+      "prev_close": 1557.8,
       "invested": 96562.23,
       "news": [
         {
-          "title": "Astra Microwave Products shares hit record high on bagging order worth \u20b92,205 crore; everything investors need to know - Upstox",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRlJ5eW5ZRHlmR3dwcXdvelJPQURacmNVc0NuazV2LXFLVHZSVXlLWTBpUlhUb1NqYUQ1TUYxVkhkVDFlMmRKTl8talFleVBsTFFqTjZCYl9LbmthTi1ZT1JoZ1BvdWR1UDcxYThwTmxhQ05nTHZteHljZTFCbnQ0am02M3dlVXpQMzJReVo0d0Qtd3h0b3FqV05rUkJqX2JrVEVNRHM1WWlhQkRNcXc2VUFDcDhHSV8ybHpBd3Z0M1plTWRtblByMjJWYmJtR2ptWHNjUTd1ZS04RjhBb0xpOFpLaWFkSzRjTUQzOXM0ZFRjTkg5X09KOENHeHhaODN5TVYtMVRSbTFUdmllY0t1YWdWeWhXTlE?oc=5",
+          "title": "Astra Microwave Products shares plunge 9% as Q1 FY27 results disappoint investors; check all numbers - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMDVDbC1qQWVrXzJYc3RDdTU1YzJJRzBTLXN4Vm43R3N0YjNyWVcwOXNZWm5BNjdrRDMwSmNaSDJkQm91elRLY0RETkQ3UmFvTWRsNVhlWklPdWZaREQwNHd2aHFhZG9EdzNucDU3cUlzQ2Z3Wjl0RjZjRUp6am5zQWRYM3d3MUNDM3hpNVVIZ0NadHhhME16anRDbjhyWV9OMGFMUnR2WTJaN1FObkdlV3F6MFFtbmFKYk1QV0NaVEJfbGk5X2tndG45V3hXanVVa2NFMTJ0RVNXQmJSSEhraWg0MzY5OXlpU3k0cU4zNA?oc=5",
           "source": "Upstox",
-          "when": "Fri, 31 Jul 2026 07:00:00 GMT"
+          "when": "Mon, 10 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "ASTRA MICROWAVE PRODUCTS BOARD HAS APPROVED THE DEMERGER OF ITS SPACE - ICICI Direct",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRlpUc2c4Y24ycE16cUV0Umx3NV9fMGpWN0RKQnphdWcxeXVBZzluMUFpVmZhY25FWlFWY1FPWEw4ekQ5MGFLZHNlOTJWTy1ZWUlmbmZGeWtpSWF0cjdXc3l5NnVCMDNLcHB2OXBib3RFcVVTTXNDN3FKV1RuS0h2WklEaHhId1pGNVRaYkppaUR0YVp1Tk5hNmlJOU5LZ0t3NnR1U2lHWXpRLUxlRUo4TkVIZDV1bWV6bGNIMnUzaWlNbjdIanc?oc=5",
+          "source": "ICICI Direct",
+          "when": "Thu, 11 Jun 2026 05:21:03 GMT"
         },
         {
           "title": "Astra Microwave share price surges 12% on \u20b92,205 crore HAL order - Moneycontrol.com",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ251b095X2JVaDJuWGFsWEdwWG02LTI0OTdRR1IzeThyQTU1OW1kVm11VExRcW1uQUVrd21wT0VEVGJ4WHRqVHhoQnpMbFp0Vmd0VTRJQTdZVHl5S3lGN185aHJ6aEJEclZMNmpDYkNJMVl3UVY0dF93OTRnNlhRa2p3dmNrbnBVRnlld1pFamlLcGI2aWZZN0xXdER6TkdYQmRqMzFOM3hUY3oxVnZnM3NNemgzSmQyMHNSckhmdUFPSEt10gHKAUFVX3lxTFAxUXdrTUV6TnB5MWdodXhEaGJpeVR3bjhKYTR0YXJrTUlzOVQzNEZTOFE4dE1vOFMtVkp3MTIwTHVBTTVodzhtZWVnSVNSVVRoU0I4dFZRbmItUWRTdTF5TXNiZ3lmQ2pOdkJyTDFFUnBVSk83ZmMxMy1ROWVqWHNnNElUaWtRclc1cVRrZnpEM1c4U1VMdGFGd0RITWx0OVFNVXcwcUExV29pOXpxWlpsSnZGZFlIbGhaWEZuNS1Wa1JteEpabG5GMEE?oc=5",
           "source": "Moneycontrol.com",
           "when": "Fri, 31 Jul 2026 07:00:00 GMT"
-        },
-        {
-          "title": "Astra Microwave Products (NSEI:ASTRAMICRO) Stock Forecast & Analyst Predictions - Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOHFLSDA2QXdvN0pyUWJnQ3VYRFpkVHEwS244R094ZzB1VjdMSHVOWXRRU3dHdHlWRWM2VkV4NlNHM3d0eHloVGlwSUN3ZWxwSmRoem85bFRXX2p2OGM1YlE0cExhTDFaM2ZxY2xHZHgwb1JqNFlfWTJzRHpvM3o3cmlzV09uaU93d2tfYlBURWZwR3A2?oc=5",
-          "source": "Simply Wall St",
-          "when": "Fri, 23 Oct 2026 07:00:00 GMT"
         }
       ],
-      "current": 172915.8,
-      "pnl": 76353.57,
-      "pnl_pct": 79.07,
-      "day_pnl": -22.2,
-      "day_pct": -0.01
+      "current": 184226.7,
+      "pnl": 87664.47,
+      "pnl_pct": 90.79,
+      "day_pnl": 11310.9,
+      "day_pct": 6.54
     },
     {
       "name": "Reliance Industries",
       "symbol": "RELIANCE.NS",
       "qty": 110,
       "avg": 1313.21,
-      "ltp": 1320.0,
-      "prev_close": 1313.4,
+      "ltp": 1324.4,
+      "prev_close": 1320.0,
       "invested": 144453.1,
       "news": [
         {
-          "title": "Reliance Industries Limited share price holds near \u20b91,315 - Multibagg AI",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkV1dVZNODFfMGM4clFWQ3dFWEtWZm5MWTIwYUFPcVB1TWlYa2xMUGQwUklzc3ZUZUR2Ui1ZYVNrMXNBamdBMXZVTndxTlYyUlhkdHdGdFBseFhTUEpPTkFHTWw1YW9Pb2dlY3JRSm5SWlk3R3FWYVQxWWpjNkRLZ29YTnV6ai0tQS1jRTJlMFBTMGZpdWNUbjRKeVZOUTBaT2kwOXJR?oc=5",
-          "source": "Multibagg AI",
-          "when": "Fri, 06 Nov 2026 10:00:47 GMT"
+          "title": "Reliance Industries Share Price - Live NSE: RELIANCE Stock Price & Chart - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6bHBYSldaWTEwM0pneWlBUVNlVjM0Njl2NFVCNGR3NTlneGlzM3VRa3Zha1RQWXJDRkxjUjR6V0hPTGsyN2FKTmFtak50X0pjUjNtQmhvMmRCTHJnNXdhYzI4c0lKU3hlVnB4cWRNbw?oc=5",
+          "source": "Upstox",
+          "when": "Sun, 08 Nov 2026 06:05:28 GMT"
         },
         {
           "title": "Reliance Industries shares jump nearly 12% after record Q2 results; top Nifty gainer, biggest index... - Moneycontrol.com",
@@ -1370,38 +1389,38 @@
           "when": "Mon, 02 Nov 2026 04:04:26 GMT"
         },
         {
-          "title": "Reliance Industries shares are now biggest in the MTF book after 60% jump in a single session - CNBC TV18",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeXpmUmFrY0JMRVlSRDJxRGFnRmhGMEZ2cWwtMDQzZU1qLXpneGlMTVB4U1BKaGJRSnhZcEJvX25rWkh6S2pmSkY5cjgtblg5UEZDeUVobW5lSkdPZWhNU2JFcHNJdFVSN0RaTUV6NjJVcG1GX2ZwUUJaem5TTlYtME5LT040RHJsTnd0azh3X1daQW53QlVrdTh5ZkJkazFiUDRTMEMtSGRyYXE1YWJfa0RnQnhzR0RBMFRVVjdpb3JCa0ZnR0NxcE9oYlV0bzBGMWNrc1N1RXhDaERUQ0ZvMWQ5NVRaYklURFdFdFJZTlZxVThy0gH6AUFVX3lxTFA4dXpyNjBISjEtX1gydzhiZXY3ck0tZzYwWEpCYTlwcUdQeDNLUktndWNHT2pkYTJfU3VqNUREQjI0UmVfOExVMkJOX3VJWkF3WkRtUjRESVRmTTdjR08wSFgyal94SU85LTRBbzVNUmdIYVpXa0ZDck9jVHFxLXZLVnpfTHZ3NVliSW5GbVJoSGE1a1NTWE80TUFWUjJVejFNRmJaMFhHdkRrR2swTWlVeFNFQlJZbEFqYkVaSG9ISENLTzJBRGo1MDduZVMza0x4Y3FEcnlkbTFIblE3eGZZa01YZ0MtWlNGd19yWVZGTEFsZklQa05WRVE?oc=5",
-          "source": "CNBC TV18",
-          "when": "Wed, 04 Nov 2026 01:03:56 GMT"
+          "title": "Reliance Industries Shares Fall 2% After Jio Platforms Listing; Q2 Results on October 30 - India Infoline",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcDBtOWtWN3NEMjBFRVhoSloyU3JKNG5DNnlHTE5ndFRnZzQ5VmNMQjVULVJOVDRseEU4dnpCb0dSOEdRX1JsZUVCWHVtRjhMRkZvU3lfa2oxemIzZG1CZE80REdRSFpJTU9QWGNMckNZdTJDdE9jRV9XU3YxVVFyS3BacHRkdzFqWU1DRzR5Q0FLTDUtYUY3ZlJIY1BvbzJTR0p1dlI3LVRobnB0b0JYNWF2TmhGZDNLaXRrRENsU3RNaG5uR0MtQW5MQQ?oc=5",
+          "source": "India Infoline",
+          "when": "Wed, 28 Oct 2026 07:00:00 GMT"
         }
       ],
-      "current": 145200.0,
-      "pnl": 746.9,
-      "pnl_pct": 0.52,
-      "day_pnl": 726.0,
-      "day_pct": 0.5
+      "current": 145684.0,
+      "pnl": 1230.9,
+      "pnl_pct": 0.85,
+      "day_pnl": 484.0,
+      "day_pct": 0.33
     },
     {
       "name": "Welspun Corp",
       "symbol": "WELCORP.NS",
       "qty": 60,
       "avg": 545.45,
-      "ltp": 2204.9,
-      "prev_close": 2385.6,
+      "ltp": 2202.1,
+      "prev_close": 2204.9,
       "invested": 32727.0,
       "news": [
         {
-          "title": "Welspun Corp - 12 BSE 500 stocks defy market trend, rally up to 65% in 3 months - The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZjRrSFlnQzhKSk85ZTlYeEE4LTdqTWtmcHdzdHVSZnpaaDlOVUt1eHJ1b2ZOMTZWc3QwRDZkczNfV1RNSWNlVHJTOVdNVW1xTV9YSS1CQ2lUa05NOV9ZdUxzaXg5eW1lMTdjS0xvOVJzcG5welBIM2dNektQMHBxdlgwMWFqXzhCbTN1N25oMlFHQTROODlyZlVObWQ5VDNlSExTbllJMEdmMnhveC1fSVZhR1FPVjlDNUNnTVVtOTVNMk5VS0VnU3pZS3B4bmlEWGRKMEpJdjZCQXVNWnUzTg?oc=5",
+          "title": "Welspun Corp Ltd. - Diwali turned lucky for these 8 stocks! Investors' wealth more than doubled, returns soar up to 191% - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOQ20yRFRWLUxfbXNhNjYwNS1nS1paV0dnVlVXT3NLUjBtc3dieVI5ak1yelkzOHBTaE9oc0x1TE9jN3NGUGhZU3NuTUlHYmRuSnkzdE84bUhhV3d2NmNIZXJBcFFUWnByM0tXdmxCOWVZZ2JJbU80OUNpT0N2TzBKT2dnbXlNZFhvSUtVZkpWeU5FeldoVzJXSkRacEVDMTVNMmpuMnVJV3o0S3JhWGR5UzZ3bTlWTVh6b1p5a0VQZnVYdTljUFhhWG1oRHZFOGFzUllSTklhM3o4WjYzQkhIdDJRLWt5YzQxRFlIT0VJRWRzMm0wUm9Fa3daR254TzBCVTA2N18zb3UyYTI4R0tCbG9vZ1M?oc=5",
           "source": "The Economic Times",
-          "when": "Wed, 04 Nov 2026 09:31:46 GMT"
+          "when": "Sun, 08 Nov 2026 06:15:52 GMT"
         },
         {
-          "title": "Welspun Corp releases transcript of Q2FY27 earnings call - scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHQ4bWdWTS14T0puS0hPU2VBMTd6S2drOThjWDdNSFg3VzRlWG9KM3ZBUmljVzdUQnhTYUVyZ3c1THJUakg3QWRuVnBDMllsTWRwTFVqTEF3NS1JMzlzenBZWVVraGVwWm42bHJDZmFvX0ludkNNbmRXaDJVTVo1Yks3SlIwU1lCLW0weGNaOXdQOGRNb3JXMjIweWV4NmhkV0Y3YldoeUd5UTBqdmFvdWJ0R3pyOUpGY09Oa3Rvbms?oc=5",
-          "source": "scanx.trade",
-          "when": "Wed, 04 Nov 2026 16:19:39 GMT"
+          "title": "Welspun Corp, JSW Steel, SAIL, NMDC to Tata Steel: Which metal stock to buy in Samvat 2083? Experts' views, targets, SL - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPMVN4RDhpX1d5dXZ1M2lKcnk1d3owam1UdUtiOVZnWnhFLVFvN05RcEpLNVpOX1lhb3EwcklQNWNYV3dDVHRjUWU3aWNVUWV5X1JfNmVCbXlaRlhoWjgzYmxWcUZQLTJhZ0NWWGhSMDJndFJva003aEtHMUlSRnJkNXdLZldpOW5hWVF1N0VXQlMyZmNocENjbE1rRlNweGpZRWpmNlNtakU1amlhMFYxY3FlLXQ3U0J5TUNmbEFIZGoyRURsWGw3NXFZbEU1TDVLRk1FcjVqSnQ2dmNiMS1kYWJJOFdrVlVGNXRYS3A4dFBNZmFQbUVjRXc0RkQzR001bXMwcDJ4NXBDeUozcXfSAZMCQVVfeXFMTkdSWHAzbUc3cU5GaEstYWVrZU1xdWIzUlo4MTdWUGJLWEVySi1xR3BZellXbnRJR0d2Sl9yTmI1dDBCajhWMS1OMlRldV9NNHgzUWstSnlGcEQ2Zjh1SFNZd1pIVzdCaU9leXJZM2dJZDRXdHd2Y2hxUGZfOTVsZGhLWEhrX0FTMFE3eHViN2NWek91SmUyNGJ0N2tJbUxxNlNOZktONGZhX1JBRlJoclpWNDdlTk1VenV1ZnJnS1hNYmotRl93eGEtdS1BenY3dS1FQ3RWWU9LcGVndV9OalFzbzdGbkZLWUZHZFZKTEUtNW1qbEg5cFBoV3RfWHRCUVliRTBIVDEyc0RxejlwZV8tZzg?oc=5",
+          "source": "Livemint",
+          "when": "Mon, 09 Nov 2026 09:04:20 GMT"
         },
         {
           "title": "Welspun Corp zooms 227% in 6 months; Jefferies projects further upside - Business Standard",
@@ -1410,19 +1429,19 @@
           "when": "Thu, 03 Sep 2026 07:00:00 GMT"
         }
       ],
-      "current": 132294.0,
-      "pnl": 99567.0,
-      "pnl_pct": 304.24,
-      "day_pnl": -10842.0,
-      "day_pct": -7.57
+      "current": 132126.0,
+      "pnl": 99399.0,
+      "pnl_pct": 303.72,
+      "day_pnl": -168.0,
+      "day_pct": -0.13
     },
     {
       "name": "IFCI",
       "symbol": "IFCI.NS",
       "qty": 2640,
       "avg": 82.41,
-      "ltp": 61.31,
-      "prev_close": 61.35,
+      "ltp": 61.64,
+      "prev_close": 61.31,
       "invested": 217562.4,
       "news": [
         {
@@ -1433,7 +1452,7 @@
         },
         {
           "title": "IFCI share price jumps 14% in 3 sessions - Can the stock rise further? Tech experts decode? - Livemint",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaWFGQXhncC01RTBoSkFUaVMzTzJWMm5obm0yQWxDcDRROU9pcEdSckkxdEdXclV1Y1FWY0d0SFc2SjBzNGJiM01WbW9qMWJxeXRDUVlGMk1yYmhzZV9VZExSR0xDT0I4cUFnN2tDcFFsbFdQRkJpbG1scnVGOTh5b0xZTnNrOU1oX3RYTzRWcW1NcE4xUHZQT0p5NmhfdU9BQTZWQVNWcEpBMzdfdnJJOEtxTkYxM3JZUkp1R2FMSUZ2eUc1ZlFodWc4dzFNUkRxN25TcEREaWxyaFczNVJ6WkdpV1F4LVc1OHQ4dw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaWFGQXhncC01RTBoSkFUaVMzTzJWMm5obm0yQWxDcDRROU9pcEdSckkxdEdXclV1Y1FWY0d0SFc2SjBzNGJiM01WbW9qMWJxeXRDUVlGMk1yYmhzZV9VZExSR0xDT0I4cUFnN2tDcFFsbFdQRkJpbG1scnVGOTh5b0xZTnNrOU1oX3RYTzRWcW1NcE4xUHZQT0p5NmhfdU9BQTZWQVNWcEpBMzdfdnJJOEtxTkYxM3JZUkp1R2FMSUZ2eUc1ZlFodWc4dzFNUkRxN25TcEREaWxyaFczNVJ6WkdpV1F4LVc1OHQ4d9IB8gFBVV95cUxQSVVvQlpCcEN6VUFJS1ZPeXRZTVVxaVI3akpVS01IM3Y1ZkJPc3RDNWxmUFlvbkwzeGFoaXVUa3k2MHZ6RHp4TzJualBhcFdPeVRpUmRMOGtHVG1xTkdSc2loSzVnWno4VndkZXJSaWtuc1VzX2VFdDc5UnBTc3BCMnZMNHBMRFNBTndnSUpRVm00cS1qYkRoNEcySkZnTU1tS3R3NTNscWdBaWNUbFhOcXctbzYxTVVSSnpjQ21GMFhfQmVpUnZqQzlVNTlLLWMxZ1pYRFF3NW5qWHNLNXRwLTBvOENuT05OdWczRlp6NWk1Zw?oc=5",
           "source": "Livemint",
           "when": "Mon, 12 Oct 2026 07:00:00 GMT"
         },
@@ -1444,19 +1463,19 @@
           "when": "Mon, 15 Jun 2026 07:00:00 GMT"
         }
       ],
-      "current": 161858.4,
-      "pnl": -55704.0,
-      "pnl_pct": -25.6,
-      "day_pnl": -105.6,
-      "day_pct": -0.07
+      "current": 162729.6,
+      "pnl": -54832.8,
+      "pnl_pct": -25.2,
+      "day_pnl": 871.2,
+      "day_pct": 0.54
     },
     {
       "name": "SITI Networks",
       "symbol": "SITINET.NS",
       "qty": 352,
       "avg": 0.86,
-      "ltp": 0.24,
-      "prev_close": 0.23,
+      "ltp": 0.25,
+      "prev_close": 0.24,
       "invested": 302.72,
       "news": [
         {
@@ -1478,45 +1497,45 @@
           "when": "Wed, 29 Jul 2026 07:00:00 GMT"
         }
       ],
-      "current": 84.48,
-      "pnl": -218.24,
-      "pnl_pct": -72.09,
+      "current": 88.0,
+      "pnl": -214.72,
+      "pnl_pct": -70.93,
       "day_pnl": 3.52,
-      "day_pct": 4.35
+      "day_pct": 4.17
     },
     {
       "name": "Frontline Corporation",
       "symbol": "FRONTCORP.BO",
       "qty": 20,
       "avg": 46.83,
-      "ltp": 35.48,
-      "prev_close": 34.04,
+      "ltp": 36.0,
+      "prev_close": 35.48,
       "invested": 936.6,
       "news": [
         {
-          "title": "Manju Choudhary sells 100 shares in Frontline Corporation - scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb3Zvb3ZER0dCblprYlNjajROM0d3bFZibHZzdjdseXZsLWlYQUw0WG9lV09ZZGMyalBZd3JkTzFJM1dJZlpseVpyZk9WY29FRmV2U19HcnFUX29fdzRxLTBxeW10RGtPYTlYVzdhdnNrM3IyZjI5OERfVVE2djItejh3S05DRTVYRW9vTlZRWlFNeFJkRHpPTEpKNUdjQmktZU1qeTdIZWE1MFpLbnQ1THpLdFY?oc=5",
+          "title": "Frontline Corporation Q2FY27 Results: Net loss of \u20b914.90 lakh, revenue up 18% - scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeUE4bzdkVGhqSktKSnRCR0EtVm5sdkNnZnFSc3QzZi03enFyNmN1eEJXZlRJZUNGTC0wX3BvbVZ1RERUTlpIc3RlM3kwWGt5LTNicDlrdVVGNm9ONTZLYlRmOWYwYkhkTG8ySVdEQnVfVEJ6YjlMTUtnT1h5Zlp2cUpOZTkxcW5ISngyVEh6dzJpbEFxc3FVeERYYlNYWEN6aDk1OG1GVlYxVEVnekx6eWRYbDdRVmVZRldWSnFCYUhfcmw2?oc=5",
           "source": "scanx.trade",
-          "when": "Wed, 10 Jun 2026 07:00:00 GMT"
-        },
-        {
-          "title": "FRONTLINE CORPORATION LTD. Share Price - Upstox",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jZUNacWU0MWZwS0M5eldRRnpDS3lYV3M2S2RTWHo0eWJVSHlIcVg2N2dtYWFlRkhiVnFFV0xmc3kyYnRBV29mcDhWeDQzenV2dWl0OS1UeDViNlJweGhYR0pZM3pmWEtabFQxemZGVzItZw?oc=5",
-          "source": "Upstox",
-          "when": "Mon, 25 Mar 2024 11:27:41 GMT"
+          "when": "Thu, 05 Nov 2026 16:16:49 GMT"
         },
         {
           "title": "Frontline plc Posts Record $659.2 Million Q2 2026 Profit - Multibagg AI",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRTBsRXRuQkVKdnl6LTBOdklhN3VCcm8tTjFqWjdsMzJzR2FZbnE2Zkxmbk5ndlI5UTI2UDYwV1NqbUJnNUJyWldMRkc4QzgyZEdqUjdUckMzWldDUkJEN2l0Qm5sQ0pPVlkyRkdPOHFkR3BEMUF1QkRFM3dmRmF4RkFCSzhrby11cXl6SjRhTjhzblN4R19OMWN3WFRiZDBNMFo4dm9ZMA?oc=5",
           "source": "Multibagg AI",
           "when": "Thu, 05 Nov 2026 14:07:57 GMT"
+        },
+        {
+          "title": "Frontline Corporation Ltd Downgraded to Strong Sell Amid Technical and Fundamental Weaknesses - MarketsMojo",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORUl4Z1B6THNVZHRLQ3RVa1FyZFU3cDdsVkVndTVSSXRDQktFT3BvaWNiUDBFbXRfOFd3bEYtMTNQckVxUVF3dmpVQTBfMnE1cEdXU3E5UVRVbHpRQmNwOXIxNVREM3h6NUZMWWJETlZTSTFkWEhmRFVjVFB4d1dPYVQ1NmtnY0VEU0hMOXNySmk5TnhlS0k4UXlvM2tIRWktNkdvRzN1UFota193VHpCYlpkOVAyc0FlS2U1Z24wQkpKdlc0bE5yQzdKN190Y3JBRWV5Y05nSDlWRWVXQTJUMjlWNThxM1ZXSDdB?oc=5",
+          "source": "MarketsMojo",
+          "when": "Fri, 30 Oct 2026 02:58:49 GMT"
         }
       ],
-      "current": 709.6,
-      "pnl": -227.0,
-      "pnl_pct": -24.24,
-      "day_pnl": 28.8,
-      "day_pct": 4.23
+      "current": 720.0,
+      "pnl": -216.6,
+      "pnl_pct": -23.13,
+      "day_pnl": 10.4,
+      "day_pct": 1.47
     }
   ]
 }
